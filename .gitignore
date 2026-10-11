@@ -1,3 +1,15 @@
 .env
+plan.md
 Edited - MIT8103 Advanced Database Systems-pages-1.md
 mit-8103-advanced-database-systems-ca-september-cohort-2026.md
+__pycache__/
+*.py[cod]
+.venv/
+data/*.db
+data/*.db-wal
+data/*.db-shm
+**/data/*.db
+**/data/*.db-wal
+**/data/*.db-shm
+.DS_Store
+Thumbs.db

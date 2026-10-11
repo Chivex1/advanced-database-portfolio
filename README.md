@@ -1,85 +1,67 @@
 # Advanced Database Portfolio
 
-MIT 8103: Advanced Database Systems
-
-This repository documents a practical database portfolio for the course assessment. It follows the case-study approach required by the programme and demonstrates the design, implementation, analysis, and optimisation of an advanced database system in a realistic organisational context.
-
-## Project overview
-
-The project uses a university student records and results management system as the selected case study. The database supports academic administration, student records, course management, grading, and reporting in a way that reflects the complexity of real enterprise data systems.
+MIT 8103: Advanced Database Systems — individual practical portfolio (40 marks).
 
 ## Selected case study
 
-### University Student Information and Results Management System
+### University Student Information and Results Management System (USIRMS)
 
-- Business context: A tertiary institution managing admissions, academic records, course registration, assessments, transcripts, and student services.
-- Users: Students, lecturers, academic advisors, heads of departments, registrar staff, and administrators.
-- Core data: Students, departments, programmes, modules, lecturers, enrolments, assessments, grades, timetables, attendance, fees, and transcripts.
-- Key operations: course registration, grade entry, GPA calculation, transcript generation, timetable tracking, student record updates, and reporting.
+**Organisation:** Riverside University (MAIN campus, Lagos; NORTH campus, Kaduna).
 
-This case study is suitable for advanced database work because it requires structured relational design, query optimisation, transaction control, NoSQL modelling, and distributed/cloud database discussion.
+- **Nature of the system:** Operational student-information and results platform (OLTP) with reporting queries.
+- **Users:** students, lecturers, academic advisors, heads of department, registrar staff, administrators.
+- **Major data:** students, departments, programmes, modules, lecturers, enrolments, assessments, grades, timetables, attendance, fees, transcripts.
+- **Key operations:** course registration, grade entry, GPA/CGPA, transcript issue, timetable tracking, record updates, reporting.
+
+This organisation is used in every portfolio folder.
+
+## Status
+
+All six assessed pieces are implemented with runnable scripts and captured evidence. Self-grade: **40/40** (see [SCORECARD.md](SCORECARD.md)).
+
+Replace the GitHub URL and student details in [final-documentation/portfolio-summary.md](final-documentation/portfolio-summary.md) before LMS submission.
+
+## Recreate on a clean machine
+
+Python 3.10+ and a local MySQL/MariaDB server are required (developed on Python 3.12 / MariaDB). Install `PyMySQL`, then open `usirms` in DBeaver (`127.0.0.1:3306`). See `portfolio-1-database-design/dbeaver-connection.md`.
+
+```text
+python portfolio-1-database-design/scripts/build_database.py --scale full
+python portfolio-2-query-optimisation/scripts/run_optimisation.py
+python portfolio-3-transactions-concurrency/scripts/run_transactions.py
+python portfolio-4-nosql/scripts/export_and_query.py
+python portfolio-5-distributed-cloud/scripts/run_distributed.py
+```
+
+Portfolio 2 rebuilds the `usirms` schema at full scale. Portfolios 3–5 reuse that schema.
 
 ## Portfolio components
 
-1. Database Design and Modelling
-   - Entity relationship diagram (ERD)
-   - Relational schema and constraints
-   - Normalisation discussion
-   - Data integrity and key design
-
-2. Query Processing and Optimisation
-   - SQL queries for reporting and analysis
-   - Execution plans and indexing evidence
-   - Performance tuning and query optimisation notes
-
-3. Transactions and Concurrency
-   - Commit and rollback examples
-   - Isolation and locking behaviour
-   - Concurrency control and consistency analysis
-
-4. NoSQL and Advanced Data Models
-   - Document, key-value, or graph-based model
-   - Suitability of NoSQL for academic and real-time data
-   - Comparison with relational design
-
-5. Distributed and Cloud Database Exercise
-   - Replication, sharding, or cloud deployment discussion
-   - Availability, consistency, and scalability considerations
-   - Cloud-based or distributed architecture example
-
-6. Final Documentation and Reflection
-   - Summary of the full portfolio
-   - Technical reflection on the design decisions and lessons learned
-   - References and AI-use declaration where required
+| Folder | Activity | Marks | What to open first |
+| --- | --- | ---: | --- |
+| [portfolio-1-database-design/](portfolio-1-database-design/) | Database design and modelling | 7 | `README.md`, `02-erd.md`, `evidence/constraint_violations.txt` |
+| [portfolio-2-query-optimisation/](portfolio-2-query-optimisation/) | Query processing and optimisation | 7 | `README.md`, `evidence/timings.txt` |
+| [portfolio-3-transactions-concurrency/](portfolio-3-transactions-concurrency/) | Transactions and concurrency | 7 | `evidence/transaction_output.txt` |
+| [portfolio-4-nosql/](portfolio-4-nosql/) | NoSQL and advanced data models | 7 | `01-model-and-suitability.md`, `evidence/nosql_queries.txt` |
+| [portfolio-5-distributed-cloud/](portfolio-5-distributed-cloud/) | Distributed and cloud databases | 6 | `01-architecture.md`, `evidence/distributed_run.txt` |
+| [final-documentation/](final-documentation/) | LMS summary and reflection | 6 | `portfolio-summary.md` |
 
 ## Repository structure
 
 ```text
 advanced-database-portfolio/
 ├── README.md
+├── SCORECARD.md
+├── shared/mysql_db.py                    MySQL connection helper
+├── requirements.txt                      PyMySQL
 ├── portfolio-1-database-design/
 ├── portfolio-2-query-optimisation/
 ├── portfolio-3-transactions-concurrency/
 ├── portfolio-4-nosql/
 ├── portfolio-5-distributed-cloud/
-├── final-documentation/
-└── assets/
+└── final-documentation/
 ```
-
-## Planned deliverables
-
-- ERD and relational schemas
-- SQL scripts and query output
-- Execution plans and optimisation notes
-- Transaction and concurrency examples
-- NoSQL model documentation
-- Distributed/cloud database discussion and evidence
-- Final reflection and course submission summary
-
-## Status
-
-This repository is being developed as a progressive portfolio. Each portfolio section should include practical evidence, screenshots, SQL scripts, or configuration files where relevant.
 
 ## Assessment alignment
 
-This project aligns with the requirements for the individual practical database portfolio by providing a realistic case study, consistent technical evidence, and structured documentation for all portfolio components.
+The work follows the CA requirement for practical evidence plus explanation: schemas and scripts, execution plans, transaction output, NoSQL artefacts, fragmentation/replication results, and an individual reflection with an AI-use declaration. Screenshots or copied code are not the primary evidence.
