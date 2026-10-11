@@ -1,10 +1,7 @@
-EXPLAIN QUERY PLAN — Q5_lecturer_load (before secondary indexes)
+EXPLAIN — Q5_lecturer_load (before secondary indexes)
 
-id=12 parent=0 notused=57 | SCAN st USING INDEX sqlite_autoindex_staff_1
-id=32 parent=0 notused=25 | SEARCH d USING INTEGER PRIMARY KEY (rowid=?)
-id=35 parent=0 notused=36 | SCAN sem
-id=41 parent=0 notused=0 | BLOOM FILTER ON o (lecturer_staff_id=? AND semester_id=?)
-id=51 parent=0 notused=47 | SEARCH o USING AUTOMATIC COVERING INDEX (lecturer_staff_id=? AND semester_id=?)
-id=59 parent=0 notused=0 | BLOOM FILTER ON e (offering_id=?)
-id=72 parent=0 notused=50 | SEARCH e USING AUTOMATIC PARTIAL COVERING INDEX (offering_id=?) LEFT-JOIN
-id=129 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
+id=1 select_type=SIMPLE table=d type=index key=uk_department_name rows=6 Extra=Using index; Using temporary; Using filesort
+id=1 select_type=SIMPLE table=st type=ref key=fk_staff_department rows=1 Extra=Using where
+id=1 select_type=SIMPLE table=o type=ref key=fk_offering_lecturer rows=12 Extra=
+id=1 select_type=SIMPLE table=sem type=eq_ref key=PRIMARY rows=1 Extra=Using where
+id=1 select_type=SIMPLE table=e type=ref key=fk_enrol_offering rows=158 Extra=Using where

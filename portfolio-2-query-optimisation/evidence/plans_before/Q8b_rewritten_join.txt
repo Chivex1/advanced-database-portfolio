@@ -1,7 +1,7 @@
-EXPLAIN QUERY PLAN — Q8b_rewritten_join (before secondary indexes)
+EXPLAIN — Q8b_rewritten_join (before secondary indexes)
 
-id=11 parent=0 notused=23 | SEARCH d USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
-id=15 parent=0 notused=125 | SCAN s USING INDEX sqlite_autoindex_student_1
-id=20 parent=0 notused=49 | SEARCH e USING INDEX sqlite_autoindex_enrolment_1 (student_id=?)
-id=29 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
-id=32 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=1 select_type=SIMPLE table=d type=const key=uk_department_code rows=1 Extra=Using index; Using temporary
+id=1 select_type=SIMPLE table=s type=index key=uk_matric_no rows=6 Extra=Using where
+id=1 select_type=SIMPLE table=e type=ref key=uk_student_offering rows=3 Extra=Using where; Distinct
+id=1 select_type=SIMPLE table=o type=eq_ref key=PRIMARY rows=1 Extra=Distinct
+id=1 select_type=SIMPLE table=m type=eq_ref key=fk_module_department rows=1 Extra=Using index; Distinct

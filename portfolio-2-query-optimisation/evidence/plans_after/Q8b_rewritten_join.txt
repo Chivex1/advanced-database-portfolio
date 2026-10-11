@@ -1,9 +1,7 @@
-EXPLAIN QUERY PLAN — Q8b_rewritten_join (after secondary indexes + ANALYZE)
+EXPLAIN — Q8b_rewritten_join (after secondary indexes + ANALYZE)
 
-id=10 parent=0 notused=23 | SEARCH d USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
-id=14 parent=0 notused=115 | SEARCH e USING INDEX idx_enrolment_letter (letter_grade=? AND status=?)
-id=20 parent=0 notused=37 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
-id=25 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
-id=28 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
-id=49 parent=0 notused=0 | USE TEMP B-TREE FOR DISTINCT
-id=50 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
+id=1 select_type=SIMPLE table=d type=const key=uk_department_code rows=1 Extra=Using index; Using temporary; Using filesort
+id=1 select_type=SIMPLE table=e type=ref key=idx_enrolment_letter rows=23 Extra=Using index condition
+id=1 select_type=SIMPLE table=s type=eq_ref key=PRIMARY rows=1 Extra=Using where
+id=1 select_type=SIMPLE table=o type=eq_ref key=PRIMARY rows=1 Extra=Distinct
+id=1 select_type=SIMPLE table=m type=eq_ref key=fk_module_department rows=1 Extra=Using index; Distinct

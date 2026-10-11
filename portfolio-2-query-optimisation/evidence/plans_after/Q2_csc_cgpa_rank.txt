@@ -1,11 +1,9 @@
-EXPLAIN QUERY PLAN — Q2_csc_cgpa_rank (after secondary indexes + ANALYZE)
+EXPLAIN — Q2_csc_cgpa_rank (after secondary indexes + ANALYZE)
 
-id=2 parent=0 notused=0 | CO-ROUTINE v_student_cgpa
-id=11 parent=2 notused=134 | SCAN e USING INDEX idx_enrolment_student_status
-id=18 parent=2 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
-id=21 parent=2 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
-id=65 parent=0 notused=23 | SEARCH d USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
-id=69 parent=0 notused=82 | SCAN c
-id=72 parent=0 notused=37 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
-id=77 parent=0 notused=26 | SEARCH p USING INTEGER PRIMARY KEY (rowid=?)
-id=99 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
+id=1 select_type=PRIMARY table=d type=const key=uk_department_code rows=1 Extra=Using index; Using temporary; Using filesort
+id=1 select_type=PRIMARY table=p type=ref key=uk_programme_name_dept rows=3 Extra=Using index
+id=1 select_type=PRIMARY table=s type=ref key=idx_student_status_programme rows=75 Extra=Using index condition
+id=1 select_type=PRIMARY table=<derived2> type=ref key=key0 rows=1 Extra=
+id=2 select_type=LATERAL DERIVED table=e type=ref key=uk_student_offering rows=3 Extra=Using where
+id=2 select_type=LATERAL DERIVED table=o type=eq_ref key=PRIMARY rows=1 Extra=
+id=2 select_type=LATERAL DERIVED table=m type=eq_ref key=PRIMARY rows=1 Extra=

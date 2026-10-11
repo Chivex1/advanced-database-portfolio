@@ -4,7 +4,7 @@ STF1001 | Halima Bello | Computer Science | 150 | 146
 STF1008 | Tola Balogun | English | 148 | 146
 STF1006 | Grace Eze | Accounting | 3 | 0
 STF1010 | Musa Yakubu | Biological Sciences | 3 | 0
-STF1012 | David Chukwu | Education | 3 | 0
 STF1015 | Nkechi Nnamdi | Computer Science | 3 | 0
+STF1012 | David Chukwu | Education | 3 | 0
 STF1016 | Yahaya Umar | Mathematics | 3 | 0
 STF1004 | Peter Nwosu | Mathematics | 1 | 0

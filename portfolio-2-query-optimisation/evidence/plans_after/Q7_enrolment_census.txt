@@ -1,11 +1,8 @@
-EXPLAIN QUERY PLAN — Q7_enrolment_census (after secondary indexes + ANALYZE)
+EXPLAIN — Q7_enrolment_census (after secondary indexes + ANALYZE)
 
-id=13 parent=0 notused=42 | SCAN p USING COVERING INDEX sqlite_autoindex_programme_1
-id=15 parent=0 notused=88 | SEARCH s USING COVERING INDEX idx_student_status_programme (ANY(status) AND programme_id=?)
-id=25 parent=0 notused=49 | SEARCH e USING INDEX sqlite_autoindex_enrolment_1 (student_id=?)
-id=32 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
-id=35 parent=0 notused=23 | SEARCH sem USING INTEGER PRIMARY KEY (rowid=?)
-id=38 parent=0 notused=20 | SEARCH sess USING INTEGER PRIMARY KEY (rowid=?)
-id=41 parent=0 notused=0 | USE TEMP B-TREE FOR GROUP BY
-id=96 parent=0 notused=0 | USE TEMP B-TREE FOR count(DISTINCT)
-id=99 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
+id=1 select_type=SIMPLE table=p type=index key=uk_programme_code rows=8 Extra=Using index; Using temporary; Using filesort
+id=1 select_type=SIMPLE table=s type=ref key=fk_student_programme rows=150 Extra=Using index
+id=1 select_type=SIMPLE table=e type=ref key=uk_student_offering rows=3 Extra=Using where
+id=1 select_type=SIMPLE table=o type=eq_ref key=PRIMARY rows=1 Extra=
+id=1 select_type=SIMPLE table=sem type=eq_ref key=PRIMARY rows=1 Extra=
+id=1 select_type=SIMPLE table=sess type=eq_ref key=PRIMARY rows=1 Extra=

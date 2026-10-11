@@ -1,6 +1,6 @@
 session_label | semester_no | module_code | module_title | credit_units | final_mark | letter_grade | grade_point | enrolment_status
 --------------|-------------|-------------|--------------|--------------|------------|--------------|-------------|-----------------
-2025/2026 | 1 | CSC101 | Introduction to Computing | 3 | 82.0 | A | 5 | Completed
-2025/2026 | 1 | GST101 | Communication in English | 2 | 54.0 | C | 3 | Completed
-2025/2026 | 1 | MTH101 | Elementary Mathematics I | 3 | 90.0 | A | 5 | Completed
+2025/2026 | 1 | CSC101 | Introduction to Computing | 3 | 82.00 | A | 5 | Completed
+2025/2026 | 1 | GST101 | Communication in English | 2 | 54.00 | C | 3 | Completed
+2025/2026 | 1 | MTH101 | Elementary Mathematics I | 3 | 90.00 | A | 5 | Completed
 2025/2026 | 2 | CSC102 | Programming Fundamentals | 3 |  |  |  | Registered

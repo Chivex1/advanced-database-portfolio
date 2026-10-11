@@ -1,7 +1,5 @@
-EXPLAIN QUERY PLAN — Q3_failure_rates (before secondary indexes)
+EXPLAIN — Q3_failure_rates (before secondary indexes)
 
-id=9 parent=0 notused=134 | SCAN e
-id=13 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
-id=16 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
-id=19 parent=0 notused=0 | USE TEMP B-TREE FOR GROUP BY
-id=72 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
+id=1 select_type=SIMPLE table=e type=ALL key=None rows=3650 Extra=Using where; Using temporary; Using filesort
+id=1 select_type=SIMPLE table=o type=eq_ref key=PRIMARY rows=1 Extra=
+id=1 select_type=SIMPLE table=m type=eq_ref key=PRIMARY rows=1 Extra=

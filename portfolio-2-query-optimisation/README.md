@@ -29,7 +29,7 @@ The script rebuilds the `usirms` MySQL schema with `--scale full` (1,200 student
 Check:
 
 1. `evidence/results/` — non-empty result sets for Q1–Q7; Q8a and Q8b list the same matric numbers.
-2. `evidence/plans_before/` vs `evidence/plans_after/` — additional `SEARCH ... USING INDEX` lines on FK joins.
+2. `evidence/plans_before/` vs `evidence/plans_after/` — MySQL `EXPLAIN` rows; look for `type`/`key` changes (e.g. `ALL` → `ref` on `idx_*`).
 3. `evidence/timings.txt` — measured means (15 runs), not placeholders.
 
 ## Self-grade

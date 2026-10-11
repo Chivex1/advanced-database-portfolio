@@ -251,13 +251,14 @@ def main() -> int:
         conn.executescript(SQL_INDEXES.read_text(encoding="utf-8"))
         conn.commit()
 
+        # Escape % for PyMySQL (it treats % as printf-style placeholders).
         index_list = conn.execute(
             """
             SELECT INDEX_NAME AS name, TABLE_NAME AS tbl,
                    GROUP_CONCAT(COLUMN_NAME ORDER BY SEQ_IN_INDEX) AS cols
             FROM information_schema.STATISTICS
             WHERE TABLE_SCHEMA = DATABASE()
-              AND INDEX_NAME LIKE 'idx_%'
+              AND INDEX_NAME LIKE 'idx_%%'
             GROUP BY INDEX_NAME, TABLE_NAME
             ORDER BY INDEX_NAME
             """
