@@ -1,0 +1,139 @@
+{
+  "_id": "RU/MTH/2024/0011",
+  "type": "student",
+  "name": {
+    "first": "Hauwa",
+    "last": "Balogun"
+  },
+  "email": "student0011@riverside.test",
+  "status": "Active",
+  "current_level": 3,
+  "campus": "MAIN",
+  "programme": {
+    "code": "BSC-MTH",
+    "name": "BSc Mathematics",
+    "department": "MTH"
+  },
+  "advisor": {
+    "staff_number": "STF1014",
+    "name": "Segun Ojo"
+  },
+  "enrolments": [
+    {
+      "module_code": "MTH101",
+      "module_title": "Elementary Mathematics I",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Peter Nwosu",
+      "status": "Completed",
+      "final_mark": 92.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 7",
+          "weight_percent": 30.0,
+          "score": 27.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 7",
+          "weight_percent": 70.0,
+          "score": 65.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "MTH201",
+      "module_title": "Linear Algebra",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Yahaya Umar",
+      "status": "Completed",
+      "final_mark": 42.0,
+      "letter_grade": "E",
+      "grade_point": 1,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 9",
+          "weight_percent": 30.0,
+          "score": 16.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 9",
+          "weight_percent": 70.0,
+          "score": 26.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "MTH102",
+      "module_title": "Elementary Mathematics II",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 2,
+      "lecturer": "Yahaya Umar",
+      "status": "Completed",
+      "final_mark": 52.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 32",
+          "weight_percent": 30.0,
+          "score": 24.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 32",
+          "weight_percent": 70.0,
+          "score": 28.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "MTH301",
+      "module_title": "Real Analysis",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Peter Nwosu",
+      "status": "Completed",
+      "final_mark": 86.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 70",
+          "weight_percent": 30.0,
+          "score": 18.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 70",
+          "weight_percent": 70.0,
+          "score": 68.0,
+          "status": "Published"
+        }
+      ]
+    }
+  ]
+}

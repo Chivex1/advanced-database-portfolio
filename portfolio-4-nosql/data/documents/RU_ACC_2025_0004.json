@@ -1,0 +1,139 @@
+{
+  "_id": "RU/ACC/2025/0004",
+  "type": "student",
+  "name": {
+    "first": "Ifeanyi",
+    "last": "Okeke"
+  },
+  "email": "student0004@riverside.test",
+  "status": "Active",
+  "current_level": 4,
+  "campus": "MAIN",
+  "programme": {
+    "code": "BSC-ACC",
+    "name": "BSc Accounting",
+    "department": "ACC"
+  },
+  "advisor": {
+    "staff_number": "STF1003",
+    "name": "Aisha Sule"
+  },
+  "enrolments": [
+    {
+      "module_code": "ACC101",
+      "module_title": "Principles of Accounting",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Grace Eze",
+      "status": "Completed",
+      "final_mark": 49.0,
+      "letter_grade": "D",
+      "grade_point": 2,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 10",
+          "weight_percent": 30.0,
+          "score": 19.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 10",
+          "weight_percent": 70.0,
+          "score": 30.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "ACC201",
+      "module_title": "Financial Accounting",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Grace Eze",
+      "status": "Completed",
+      "final_mark": 66.0,
+      "letter_grade": "B",
+      "grade_point": 4,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 11",
+          "weight_percent": 30.0,
+          "score": 13.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 11",
+          "weight_percent": 70.0,
+          "score": 53.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "ACC301",
+      "module_title": "Management Accounting",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Grace Eze",
+      "status": "Completed",
+      "final_mark": 86.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 21",
+          "weight_percent": 30.0,
+          "score": 21.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 21",
+          "weight_percent": 70.0,
+          "score": 65.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "GST101",
+      "module_title": "Communication in English",
+      "credit_units": 2,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Tola Balogun",
+      "status": "Completed",
+      "final_mark": 88.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 18",
+          "weight_percent": 30.0,
+          "score": 25.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 18",
+          "weight_percent": 70.0,
+          "score": 63.0,
+          "status": "Published"
+        }
+      ]
+    }
+  ]
+}

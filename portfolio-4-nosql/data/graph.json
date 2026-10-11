@@ -1,0 +1,171 @@
+{
+  "nodes": [
+    {
+      "id": "CSC101",
+      "title": "Introduction to Computing",
+      "cu": 3
+    },
+    {
+      "id": "CSC102",
+      "title": "Programming Fundamentals",
+      "cu": 3
+    },
+    {
+      "id": "CSC201",
+      "title": "Data Structures",
+      "cu": 3
+    },
+    {
+      "id": "CSC202",
+      "title": "Database Systems",
+      "cu": 3
+    },
+    {
+      "id": "MIT8103",
+      "title": "Advanced Database Systems",
+      "cu": 3
+    },
+    {
+      "id": "MIT8104",
+      "title": "Distributed Systems",
+      "cu": 3
+    },
+    {
+      "id": "MTH101",
+      "title": "Elementary Mathematics I",
+      "cu": 3
+    },
+    {
+      "id": "MTH102",
+      "title": "Elementary Mathematics II",
+      "cu": 3
+    },
+    {
+      "id": "MTH201",
+      "title": "Linear Algebra",
+      "cu": 3
+    },
+    {
+      "id": "ACC101",
+      "title": "Principles of Accounting",
+      "cu": 3
+    },
+    {
+      "id": "ACC201",
+      "title": "Financial Accounting",
+      "cu": 3
+    },
+    {
+      "id": "ENG101",
+      "title": "Use of English",
+      "cu": 2
+    },
+    {
+      "id": "ENG201",
+      "title": "Introduction to Literature",
+      "cu": 3
+    },
+    {
+      "id": "BIO101",
+      "title": "General Biology",
+      "cu": 3
+    },
+    {
+      "id": "BIO201",
+      "title": "Genetics",
+      "cu": 3
+    },
+    {
+      "id": "EDU101",
+      "title": "Foundations of Education",
+      "cu": 3
+    },
+    {
+      "id": "EDU201",
+      "title": "Curriculum Studies",
+      "cu": 3
+    },
+    {
+      "id": "GST101",
+      "title": "Communication in English",
+      "cu": 2
+    },
+    {
+      "id": "CSC301",
+      "title": "Operating Systems",
+      "cu": 3
+    },
+    {
+      "id": "CSC302",
+      "title": "Software Engineering",
+      "cu": 3
+    },
+    {
+      "id": "ACC301",
+      "title": "Management Accounting",
+      "cu": 3
+    },
+    {
+      "id": "MTH301",
+      "title": "Real Analysis",
+      "cu": 3
+    },
+    {
+      "id": "BIO301",
+      "title": "Microbiology",
+      "cu": 3
+    },
+    {
+      "id": "EDU301",
+      "title": "Educational Measurement",
+      "cu": 3
+    }
+  ],
+  "edges": [
+    {
+      "from": "CSC101",
+      "to": "CSC201",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC102",
+      "to": "CSC201",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC101",
+      "to": "CSC202",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC202",
+      "to": "MIT8103",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "MIT8103",
+      "to": "MIT8104",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "ACC101",
+      "to": "ACC201",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "BIO101",
+      "to": "BIO201",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC201",
+      "to": "CSC301",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC201",
+      "to": "CSC302",
+      "type": "PREREQUISITE"
+    }
+  ]
+}

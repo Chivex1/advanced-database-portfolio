@@ -1,0 +1,139 @@
+{
+  "_id": "RU/EDU/2024/0007",
+  "type": "student",
+  "name": {
+    "first": "Ngozi",
+    "last": "Nwosu"
+  },
+  "email": "student0007@riverside.test",
+  "status": "Active",
+  "current_level": 3,
+  "campus": "NORTH",
+  "programme": {
+    "code": "BSC-EDU",
+    "name": "BSc Education",
+    "department": "EDU"
+  },
+  "advisor": {
+    "staff_number": "STF1014",
+    "name": "Segun Ojo"
+  },
+  "enrolments": [
+    {
+      "module_code": "GST101",
+      "module_title": "Communication in English",
+      "credit_units": 2,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Tola Balogun",
+      "status": "Completed",
+      "final_mark": 60.0,
+      "letter_grade": "B",
+      "grade_point": 4,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 18",
+          "weight_percent": 30.0,
+          "score": 24.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 18",
+          "weight_percent": 70.0,
+          "score": 36.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "EDU101",
+      "module_title": "Foundations of Education",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "David Chukwu",
+      "status": "Completed",
+      "final_mark": 51.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 16",
+          "weight_percent": 30.0,
+          "score": 24.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 16",
+          "weight_percent": 70.0,
+          "score": 27.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "EDU201",
+      "module_title": "Curriculum Studies",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "David Chukwu",
+      "status": "Completed",
+      "final_mark": 91.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 17",
+          "weight_percent": 30.0,
+          "score": 21.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 17",
+          "weight_percent": 70.0,
+          "score": 70.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "EDU301",
+      "module_title": "Educational Measurement",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "David Chukwu",
+      "status": "Completed",
+      "final_mark": 58.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 72",
+          "weight_percent": 30.0,
+          "score": 13.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 72",
+          "weight_percent": 70.0,
+          "score": 45.0,
+          "status": "Published"
+        }
+      ]
+    }
+  ]
+}

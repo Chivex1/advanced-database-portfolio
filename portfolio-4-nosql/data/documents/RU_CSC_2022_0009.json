@@ -1,0 +1,132 @@
+{
+  "_id": "RU/CSC/2022/0009",
+  "type": "student",
+  "name": {
+    "first": "Blessing",
+    "last": "Eze"
+  },
+  "email": "student0009@riverside.test",
+  "status": "Active",
+  "current_level": 1,
+  "campus": "MAIN",
+  "programme": {
+    "code": "BSC-CSC",
+    "name": "BSc Computer Science",
+    "department": "CSC"
+  },
+  "advisor": {
+    "staff_number": "STF1014",
+    "name": "Segun Ojo"
+  },
+  "enrolments": [
+    {
+      "module_code": "MTH101",
+      "module_title": "Elementary Mathematics I",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Peter Nwosu",
+      "status": "Completed",
+      "final_mark": 55.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 55",
+          "weight_percent": 30.0,
+          "score": 21.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 55",
+          "weight_percent": 70.0,
+          "score": 34.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "GST101",
+      "module_title": "Communication in English",
+      "credit_units": 2,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Tola Balogun",
+      "status": "Completed",
+      "final_mark": 44.0,
+      "letter_grade": "E",
+      "grade_point": 1,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 66",
+          "weight_percent": 30.0,
+          "score": 18.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 66",
+          "weight_percent": 70.0,
+          "score": 26.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "CSC101",
+      "module_title": "Introduction to Computing",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Nkechi Nnamdi",
+      "status": "Completed",
+      "final_mark": 80.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 49",
+          "weight_percent": 30.0,
+          "score": 27.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 49",
+          "weight_percent": 70.0,
+          "score": 53.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "CSC102",
+      "module_title": "Programming Fundamentals",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 2,
+      "lecturer": "Halima Bello",
+      "status": "Registered",
+      "final_mark": null,
+      "letter_grade": null,
+      "grade_point": null,
+      "enrolled_on": "2026-02-05",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 74",
+          "weight_percent": 30.0,
+          "score": 17.0,
+          "status": "Submitted"
+        }
+      ]
+    }
+  ]
+}

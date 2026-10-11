@@ -1,0 +1,53 @@
+USIRMS NoSQL implementation evidence
+document files written: 12
+key-value entries written: 1491
+graph nodes=24 edges=9
+
+Document lookup RU/CSC/2024/001 (no SQL at read time)
+{
+  "matric": "RU/CSC/2024/001",
+  "name": "Ada Okonkwo",
+  "programme": "BSc Computer Science",
+  "enrolment_count": 4,
+  "cgpa": 4.64,
+  "modules": [
+    "MTH101 A (90.0)",
+    "GST101 C (54.0)",
+    "CSC101 A (82.0)",
+    "CSC102 A (74.0)"
+  ]
+}
+
+Key-value lookup timetable:RU/CSC/2024/001 and fees:RU/CSC/2024/001
+{
+  "timetable": [],
+  "fees": {
+    "balance": 0.0,
+    "status": "Paid"
+  }
+}
+(Ada has no open Registered offering after Portfolio 3 finalised CSC102.)
+Sample non-empty timetable key:
+{
+  "timetable:RU/ENG/2022/0005": [
+    {
+      "module": "GST101",
+      "day": "Mon",
+      "start": "10:00",
+      "end": "12:00",
+      "venue": "LT7"
+    }
+  ]
+}
+
+Graph: directed paths CSC101 -> MIT8103 (prerequisite chain)
+[
+  [
+    "CSC101",
+    "CSC202",
+    "MIT8103"
+  ]
+]
+
+Read path: open JSON documents / kv_store.json / graph.json.
+Write path for official marks remains the relational database (Portfolio 1-3).

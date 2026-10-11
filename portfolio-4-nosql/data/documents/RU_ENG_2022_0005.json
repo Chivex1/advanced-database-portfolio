@@ -1,0 +1,66 @@
+{
+  "_id": "RU/ENG/2022/0005",
+  "type": "student",
+  "name": {
+    "first": "Amina",
+    "last": "Sule"
+  },
+  "email": "student0005@riverside.test",
+  "status": "Active",
+  "current_level": 1,
+  "campus": "NORTH",
+  "programme": {
+    "code": "BA-ENG",
+    "name": "BA English",
+    "department": "ENG"
+  },
+  "advisor": {
+    "staff_number": "STF1014",
+    "name": "Segun Ojo"
+  },
+  "enrolments": [
+    {
+      "module_code": "ENG101",
+      "module_title": "Use of English",
+      "credit_units": 2,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Tola Balogun",
+      "status": "Completed",
+      "final_mark": 93.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 60",
+          "weight_percent": 30.0,
+          "score": 29.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 60",
+          "weight_percent": 70.0,
+          "score": 64.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "GST101",
+      "module_title": "Communication in English",
+      "credit_units": 2,
+      "session": "2025/2026",
+      "semester": 2,
+      "lecturer": "Tola Balogun",
+      "status": "Registered",
+      "final_mark": null,
+      "letter_grade": null,
+      "grade_point": null,
+      "enrolled_on": "2026-02-05",
+      "assessments": []
+    }
+  ]
+}

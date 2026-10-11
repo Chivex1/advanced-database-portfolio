@@ -1,0 +1,81 @@
+{
+  "_id": "RU/BIO/2023/0006",
+  "type": "student",
+  "name": {
+    "first": "Tunde",
+    "last": "Musa"
+  },
+  "email": "student0006@riverside.test",
+  "status": "Active",
+  "current_level": 2,
+  "campus": "NORTH",
+  "programme": {
+    "code": "BSC-BIO",
+    "name": "BSc Biological Sciences",
+    "department": "BIO"
+  },
+  "advisor": {
+    "staff_number": "STF1003",
+    "name": "Aisha Sule"
+  },
+  "enrolments": [
+    {
+      "module_code": "BIO101",
+      "module_title": "General Biology",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Musa Yakubu",
+      "status": "Completed",
+      "final_mark": 56.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 14",
+          "weight_percent": 30.0,
+          "score": 30.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 14",
+          "weight_percent": 70.0,
+          "score": 26.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "BIO201",
+      "module_title": "Genetics",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Musa Yakubu",
+      "status": "Completed",
+      "final_mark": 76.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 63",
+          "weight_percent": 30.0,
+          "score": 27.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 63",
+          "weight_percent": 70.0,
+          "score": 49.0,
+          "status": "Published"
+        }
+      ]
+    }
+  ]
+}

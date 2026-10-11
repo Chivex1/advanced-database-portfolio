@@ -1,0 +1,110 @@
+{
+  "_id": "RU/CSC/2023/0010",
+  "type": "student",
+  "name": {
+    "first": "Emeka",
+    "last": "Abdullahi"
+  },
+  "email": "student0010@riverside.test",
+  "status": "Active",
+  "current_level": 2,
+  "campus": "MAIN",
+  "programme": {
+    "code": "MIT-ADS",
+    "name": "MIT Advanced Database Systems",
+    "department": "CSC"
+  },
+  "advisor": {
+    "staff_number": "STF1003",
+    "name": "Aisha Sule"
+  },
+  "enrolments": [
+    {
+      "module_code": "MIT8103",
+      "module_title": "Advanced Database Systems",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Halima Bello",
+      "status": "Completed",
+      "final_mark": 49.0,
+      "letter_grade": "D",
+      "grade_point": 2,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 5",
+          "weight_percent": 30.0,
+          "score": 23.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 5",
+          "weight_percent": 70.0,
+          "score": 26.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "CSC202",
+      "module_title": "Database Systems",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Nkechi Nnamdi",
+      "status": "Completed",
+      "final_mark": 67.0,
+      "letter_grade": "B",
+      "grade_point": 4,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 4",
+          "weight_percent": 30.0,
+          "score": 22.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 4",
+          "weight_percent": 70.0,
+          "score": 45.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "MIT8104",
+      "module_title": "Distributed Systems",
+      "credit_units": 3,
+      "session": "2024/2025",
+      "semester": 2,
+      "lecturer": "Halima Bello",
+      "status": "Completed",
+      "final_mark": 53.0,
+      "letter_grade": "C",
+      "grade_point": 3,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 30",
+          "weight_percent": 30.0,
+          "score": 12.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 30",
+          "weight_percent": 70.0,
+          "score": 41.0,
+          "status": "Published"
+        }
+      ]
+    }
+  ]
+}
