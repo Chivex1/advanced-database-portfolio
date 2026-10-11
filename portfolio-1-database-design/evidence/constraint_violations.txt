@@ -1,0 +1,35 @@
+USIRMS integrity tests - each case must be REJECTED by MySQL/MariaDB
+
+[1] PASS — rejected as required
+    error: (1062, "Duplicate entry 'RU/CSC/2024/001' for key 'uk_matric_no'")
+    sql: INSERT INTO student ( matric_no, first_name, last_name, email, date_of_birth, gender, admission_year, programme_id, current_level, status, c
+
+[2] PASS — rejected as required
+    error: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`usirms`.`grade`, CONSTRAINT `fk_grade_enrolment` FOREIGN KEY (`enrolment_id`) REFERENCES `enrolment` (`enrolment_id`))')
+    sql: INSERT INTO grade (enrolment_id, assessment_id, score, entered_by, status) VALUES (999999, 1, 10, 1, 'Draft');
+
+[3] PASS — rejected as required
+    error: (4025, 'CONSTRAINT `chk_score` failed for `usirms`.`grade`')
+    sql: INSERT INTO grade (enrolment_id, assessment_id, score, entered_by, status) VALUES (1, 1, -5, 1, 'Draft');
+
+[4] PASS — rejected as required
+    error: (1062, "Duplicate entry '1-49' for key 'uk_student_offering'")
+    sql: INSERT INTO enrolment (student_id, offering_id, enrolled_on, status) SELECT student_id, offering_id, CURDATE(), 'Registered' FROM enrolment 
+
+[5] PASS — rejected as required
+    error: (4025, 'CONSTRAINT `chk_no_self_prereq` failed for `usirms`.`module_prerequisite`')
+    sql: INSERT INTO module_prerequisite (module_id, prerequisite_module_id) VALUES (1, 1);
+
+[6] PASS — rejected as required
+    error: (4025, 'CONSTRAINT `chk_issued_complete` failed for `usirms`.`transcript_issue`')
+    sql: INSERT INTO transcript_issue (student_id, requested_on, purpose, status) VALUES (1, NOW(), 'Job application', 'Issued');
+
+[7] PASS — rejected as required
+    error: (4025, 'CONSTRAINT `chk_staff_dept` failed for `usirms`.`staff`')
+    sql: INSERT INTO staff (staff_number, first_name, last_name, email, role, hired_date) VALUES ('STF9999', 'No', 'Dept', 'no.dept@riverside.test', 
+
+[8] PASS — rejected as required
+    error: (1062, "Duplicate entry 'PAY-REF-00001' for key 'uk_payment_ref'")
+    sql: INSERT INTO fee_payment (invoice_id, amount_paid, paid_on, method, reference_no) SELECT invoice_id, 1000, CURDATE(), 'Transfer', reference_n
+
+Result: 8/8 illegal operations rejected.

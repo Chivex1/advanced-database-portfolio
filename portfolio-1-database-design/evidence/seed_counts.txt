@@ -1,0 +1,24 @@
+Row counts after seed
+
+campus                 2
+department             6
+staff                  18
+department_head        6
+programme              8
+module                 24
+programme_module       31
+module_prerequisite    9
+student                1200
+academic_session       2
+semester               4
+module_offering        96
+enrolment              3650
+assessment             192
+grade                  6890
+timetable_slot         24
+attendance             1168
+fee_invoice            1200
+fee_payment            1134
+transcript_issue       1
+
+Total rows: 15665
