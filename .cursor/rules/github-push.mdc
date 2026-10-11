@@ -1,0 +1,18 @@
+---
+description: Always push to GitHub using GITHUB_TOKEN from .env
+alwaysApply: true
+---
+
+# Git push with GITHUB_TOKEN
+
+When the user asks to push commits to GitHub:
+
+1. Load `GITHUB_TOKEN` from the repo-root `.env` (never print, log, or commit it).
+2. Push over HTTPS as `https://x-access-token:${GITHUB_TOKEN}@github.com/<owner>/<repo>.git` for the current branch.
+3. Do not depend on interactive `gh` or Windows credential-manager prompts.
+4. Never stage or commit `.env`.
+5. Verify with `git status -sb` after push.
+
+If the token is missing or rejected, ask the user to update `.env` — do not invent credentials.
+
+See also: [cursor-rules.md](../../cursor-rules.md)
