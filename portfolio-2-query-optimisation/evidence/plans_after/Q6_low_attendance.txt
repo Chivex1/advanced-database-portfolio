@@ -1,0 +1,9 @@
+EXPLAIN QUERY PLAN — Q6_low_attendance (after secondary indexes + ANALYZE)
+
+id=11 parent=0 notused=118 | SCAN a
+id=13 parent=0 notused=29 | SEARCH ts USING INTEGER PRIMARY KEY (rowid=?)
+id=16 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=19 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=22 parent=0 notused=37 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
+id=25 parent=0 notused=0 | USE TEMP B-TREE FOR GROUP BY
+id=92 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

@@ -1,0 +1,10 @@
+EXPLAIN QUERY PLAN — Q5_lecturer_load (before secondary indexes)
+
+id=12 parent=0 notused=57 | SCAN st USING INDEX sqlite_autoindex_staff_1
+id=32 parent=0 notused=25 | SEARCH d USING INTEGER PRIMARY KEY (rowid=?)
+id=35 parent=0 notused=36 | SCAN sem
+id=41 parent=0 notused=0 | BLOOM FILTER ON o (lecturer_staff_id=? AND semester_id=?)
+id=51 parent=0 notused=47 | SEARCH o USING AUTOMATIC COVERING INDEX (lecturer_staff_id=? AND semester_id=?)
+id=59 parent=0 notused=0 | BLOOM FILTER ON e (offering_id=?)
+id=72 parent=0 notused=50 | SEARCH e USING AUTOMATIC PARTIAL COVERING INDEX (offering_id=?) LEFT-JOIN
+id=129 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

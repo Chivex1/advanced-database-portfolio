@@ -1,0 +1,11 @@
+EXPLAIN QUERY PLAN — Q7_enrolment_census (before secondary indexes)
+
+id=13 parent=0 notused=22 | SCAN sess USING COVERING INDEX sqlite_autoindex_academic_session_1
+id=15 parent=0 notused=25 | SEARCH sem USING COVERING INDEX sqlite_autoindex_semester_1 (session_id=?)
+id=19 parent=0 notused=42 | SCAN p USING COVERING INDEX sqlite_autoindex_programme_1
+id=23 parent=0 notused=0 | BLOOM FILTER ON s (programme_id=?)
+id=32 parent=0 notused=49 | SEARCH s USING AUTOMATIC COVERING INDEX (programme_id=?)
+id=37 parent=0 notused=49 | SEARCH e USING INDEX sqlite_autoindex_enrolment_1 (student_id=?)
+id=44 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=93 parent=0 notused=0 | USE TEMP B-TREE FOR count(DISTINCT)
+id=96 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

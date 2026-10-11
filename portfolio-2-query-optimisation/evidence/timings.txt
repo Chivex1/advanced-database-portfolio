@@ -1,0 +1,15 @@
+USIRMS query timings (SQLite, this machine)
+Each figure is the mean of 15 runs after one warmup, time.perf_counter().
+These are measured values, not estimates.
+
+query                    rows  before_ms   after_ms   delta_ms
+Q1_transcript               4      0.075      0.072     -0.003
+Q2_csc_cgpa_rank           15      8.139      8.283      0.143
+Q2b_pushed_selection       15      9.385     13.034      3.649
+Q3_failure_rates           18      8.311      7.529     -0.781
+Q4_outstanding_fees        20      7.269      4.459     -2.810
+Q5_lecturer_load            8      8.820      0.525     -8.295
+Q6_low_attendance          58      5.109      5.733      0.624
+Q7_enrolment_census        15     36.454     22.235    -14.219
+Q8a_nested_subquery         6      1.844      0.190     -1.654
+Q8b_rewritten_join          6      4.894      0.178     -4.716

@@ -1,0 +1,9 @@
+EXPLAIN QUERY PLAN — Q4_outstanding_fees (after secondary indexes + ANALYZE)
+
+id=2 parent=0 notused=0 | CO-ROUTINE v_invoice_balance
+id=11 parent=2 notused=113 | SCAN i USING INDEX sqlite_autoindex_fee_invoice_1
+id=14 parent=2 notused=38 | SEARCH p USING INDEX idx_payment_invoice (invoice_id=?) LEFT-JOIN
+id=83 parent=0 notused=26 | SCAN sess
+id=87 parent=0 notused=82 | SCAN b
+id=95 parent=0 notused=37 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
+id=118 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

@@ -1,0 +1,11 @@
+EXPLAIN QUERY PLAN — Q2_csc_cgpa_rank (before secondary indexes)
+
+id=2 parent=0 notused=0 | CO-ROUTINE v_student_cgpa
+id=11 parent=2 notused=141 | SCAN e USING INDEX sqlite_autoindex_enrolment_1
+id=18 parent=2 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=21 parent=2 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=65 parent=0 notused=23 | SEARCH d USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
+id=69 parent=0 notused=82 | SCAN c
+id=72 parent=0 notused=37 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
+id=77 parent=0 notused=26 | SEARCH p USING INTEGER PRIMARY KEY (rowid=?)
+id=99 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

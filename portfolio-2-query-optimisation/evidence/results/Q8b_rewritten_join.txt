@@ -1,0 +1,8 @@
+matric_no | first_name | last_name
+----------|------------|----------
+RU/CSC/2022/0393 | Blessing | Yakubu
+RU/CSC/2023/0738 | Seyi | Ojo
+RU/CSC/2023/0786 | Seyi | Musa
+RU/CSC/2023/0954 | Seyi | Adebayo
+RU/CSC/2025/0520 | Ibrahim | Nnamdi
+RU/CSC/2025/0800 | Yusuf | Nnamdi

@@ -1,0 +1,9 @@
+EXPLAIN QUERY PLAN — Q1_transcript (before secondary indexes)
+
+id=9 parent=0 notused=36 | SEARCH s USING COVERING INDEX sqlite_autoindex_student_1 (matric_no=?)
+id=13 parent=0 notused=49 | SEARCH e USING INDEX sqlite_autoindex_enrolment_1 (student_id=?)
+id=18 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=21 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=24 parent=0 notused=23 | SEARCH sem USING INTEGER PRIMARY KEY (rowid=?)
+id=27 parent=0 notused=20 | SEARCH sess USING INTEGER PRIMARY KEY (rowid=?)
+id=43 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

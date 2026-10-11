@@ -1,0 +1,7 @@
+EXPLAIN QUERY PLAN — Q3_failure_rates (before secondary indexes)
+
+id=9 parent=0 notused=134 | SCAN e
+id=13 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=16 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=19 parent=0 notused=0 | USE TEMP B-TREE FOR GROUP BY
+id=72 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

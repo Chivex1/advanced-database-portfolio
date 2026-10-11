@@ -1,0 +1,9 @@
+EXPLAIN QUERY PLAN — Q2b_pushed_selection (before secondary indexes)
+
+id=15 parent=0 notused=23 | SEARCH d USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
+id=19 parent=0 notused=117 | SCAN s USING INDEX sqlite_autoindex_student_1
+id=24 parent=0 notused=26 | SEARCH p USING INTEGER PRIMARY KEY (rowid=?)
+id=30 parent=0 notused=49 | SEARCH e USING INDEX sqlite_autoindex_enrolment_1 (student_id=?)
+id=39 parent=0 notused=33 | SEARCH o USING INTEGER PRIMARY KEY (rowid=?)
+id=42 parent=0 notused=29 | SEARCH m USING INTEGER PRIMARY KEY (rowid=?)
+id=97 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY

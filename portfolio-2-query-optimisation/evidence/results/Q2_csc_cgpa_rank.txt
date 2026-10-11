@@ -1,0 +1,17 @@
+matric_no | student_name | current_level | cgpa | credit_units_completed
+----------|--------------|---------------|------|-----------------------
+RU/CSC/2022/0033 | Blessing Yakubu | 1 | 5.0 | 8
+RU/CSC/2022/0137 | Amaka Mohammed | 1 | 5.0 | 8
+RU/CSC/2022/0145 | Ada Sule | 1 | 5.0 | 8
+RU/CSC/2022/0201 | Blessing Okonkwo | 1 | 5.0 | 8
+RU/CSC/2022/0233 | Amaka Yakubu | 1 | 5.0 | 8
+RU/CSC/2022/0257 | Amaka Mohammed | 1 | 5.0 | 8
+RU/CSC/2022/0329 | Amaka Eze | 1 | 5.0 | 8
+RU/CSC/2022/0649 | Ada Eze | 1 | 5.0 | 8
+RU/CSC/2022/0825 | Blessing Sule | 1 | 5.0 | 8
+RU/CSC/2022/0929 | Amaka Eze | 1 | 5.0 | 8
+RU/CSC/2022/0945 | Blessing Sule | 1 | 5.0 | 8
+RU/CSC/2022/0953 | Amaka Yakubu | 1 | 5.0 | 8
+RU/CSC/2023/0042 | Seyi Adeyemi | 2 | 5.0 | 9
+RU/CSC/2023/0058 | Emeka Ojo | 2 | 5.0 | 9
+RU/CSC/2023/0138 | Seyi Ojo | 2 | 5.0 | 9

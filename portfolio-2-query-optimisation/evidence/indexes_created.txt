@@ -1,0 +1,57 @@
+Secondary indexes created
+
+idx_assessment_offering
+CREATE INDEX idx_assessment_offering
+    ON assessment (offering_id)
+
+idx_attendance_slot
+CREATE INDEX idx_attendance_slot
+    ON attendance (slot_id)
+
+idx_attendance_student_status
+CREATE INDEX idx_attendance_student_status
+    ON attendance (student_id, status)
+
+idx_enrolment_letter
+CREATE INDEX idx_enrolment_letter
+    ON enrolment (letter_grade, status)
+
+idx_enrolment_offering_status
+CREATE INDEX idx_enrolment_offering_status
+    ON enrolment (offering_id, status)
+
+idx_enrolment_student_status
+CREATE INDEX idx_enrolment_student_status
+    ON enrolment (student_id, status)
+
+idx_grade_enrolment
+CREATE INDEX idx_grade_enrolment
+    ON grade (enrolment_id, status)
+
+idx_invoice_session_status
+CREATE INDEX idx_invoice_session_status
+    ON fee_invoice (session_id, status)
+
+idx_offering_module
+CREATE INDEX idx_offering_module
+    ON module_offering (module_id)
+
+idx_offering_semester_lecturer
+CREATE INDEX idx_offering_semester_lecturer
+    ON module_offering (semester_id, lecturer_staff_id)
+
+idx_payment_invoice
+CREATE INDEX idx_payment_invoice
+    ON fee_payment (invoice_id)
+
+idx_slot_offering
+CREATE INDEX idx_slot_offering
+    ON timetable_slot (offering_id)
+
+idx_student_advisor
+CREATE INDEX idx_student_advisor
+    ON student (advisor_staff_id)
+
+idx_student_status_programme
+CREATE INDEX idx_student_status_programme
+    ON student (status, programme_id)

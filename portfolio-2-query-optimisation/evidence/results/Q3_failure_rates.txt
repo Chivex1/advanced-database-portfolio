@@ -1,0 +1,20 @@
+module_code | module_title | completed_enrolments | fails | fail_rate_pct
+------------|--------------|----------------------|-------|--------------
+EDU201 | Curriculum Studies | 146 | 3 | 2.1
+MIT8104 | Distributed Systems | 146 | 2 | 1.4
+ENG101 | Use of English | 146 | 2 | 1.4
+EDU301 | Educational Measurement | 146 | 2 | 1.4
+GST101 | Communication in English | 438 | 5 | 1.1
+CSC101 | Introduction to Computing | 292 | 2 | 0.7
+MTH101 | Elementary Mathematics I | 292 | 2 | 0.7
+MIT8103 | Advanced Database Systems | 146 | 1 | 0.7
+MTH201 | Linear Algebra | 146 | 1 | 0.7
+ACC101 | Principles of Accounting | 146 | 1 | 0.7
+MTH301 | Real Analysis | 146 | 1 | 0.7
+CSC202 | Database Systems | 292 | 1 | 0.3
+MTH102 | Elementary Mathematics II | 146 | 0 | 0.0
+ACC201 | Financial Accounting | 146 | 0 | 0.0
+BIO101 | General Biology | 146 | 0 | 0.0
+BIO201 | Genetics | 146 | 0 | 0.0
+EDU101 | Foundations of Education | 146 | 0 | 0.0
+ACC301 | Management Accounting | 146 | 0 | 0.0

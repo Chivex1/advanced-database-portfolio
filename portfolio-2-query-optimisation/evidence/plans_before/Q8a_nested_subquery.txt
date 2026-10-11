@@ -1,0 +1,14 @@
+EXPLAIN QUERY PLAN — Q8a_nested_subquery (before secondary indexes)
+
+id=4 parent=0 notused=83 | SEARCH s USING INTEGER PRIMARY KEY (rowid=?)
+id=8 parent=0 notused=0 | LIST SUBQUERY 3
+id=11 parent=8 notused=134 | SCAN e
+id=20 parent=8 notused=0 | LIST SUBQUERY 2
+id=26 parent=20 notused=0 | BLOOM FILTER ON m (department_id=?)
+id=35 parent=20 notused=46 | SEARCH m USING AUTOMATIC COVERING INDEX (department_id=?)
+id=38 parent=20 notused=0 | SCALAR SUBQUERY 1
+id=42 parent=38 notused=39 | SEARCH department USING COVERING INDEX sqlite_autoindex_department_1 (department_code=?)
+id=54 parent=20 notused=40 | SEARCH o USING COVERING INDEX sqlite_autoindex_module_offering_1 (module_id=?)
+id=62 parent=20 notused=0 | CREATE BLOOM FILTER
+id=75 parent=8 notused=0 | CREATE BLOOM FILTER
+id=96 parent=0 notused=0 | USE TEMP B-TREE FOR ORDER BY
