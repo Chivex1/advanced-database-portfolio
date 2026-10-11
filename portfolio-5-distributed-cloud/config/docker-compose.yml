@@ -1,0 +1,58 @@
+# Cloud-style USIRMS topology (config evidence).
+# Not executed in this portfolio unless Docker is available on the assessor's machine.
+# Maps to module ideas: homogeneous DDBS, primary copy replication, read replicas.
+#
+# Intended cloud mapping:
+#   usirms-primary  -> managed PostgreSQL primary (e.g. Amazon RDS / Cloud SQL)
+#   usirms-replica  -> same-region read replica for HoD/advisor reporting
+# Application writes grades and fees only to the primary (CP).
+# Portal reads may use the replica (AP / eventual).
+
+services:
+  usirms-primary:
+    image: postgres:16
+    container_name: usirms-primary
+    environment:
+      POSTGRES_DB: usirms
+      POSTGRES_USER: registrar
+      POSTGRES_PASSWORD: change-me
+    ports:
+      - "5432:5432"
+    command:
+      - postgres
+      - -c
+      - wal_level=replica
+      - -c
+      - max_wal_senders=4
+      - -c
+      - hot_standby=on
+    volumes:
+      - primary-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U registrar -d usirms"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  usirms-replica:
+    image: postgres:16
+    container_name: usirms-replica
+    environment:
+      POSTGRES_DB: usirms
+      POSTGRES_USER: registrar
+      POSTGRES_PASSWORD: change-me
+    ports:
+      - "5433:5432"
+    depends_on:
+      usirms-primary:
+        condition: service_healthy
+    command:
+      - bash
+      - -c
+      - |
+        echo "Replica service reserved for streaming replication setup."
+        echo "Primary DSN: postgres://registrar@usirms-primary:5432/usirms"
+        sleep infinity
+
+volumes:
+  primary-data:
