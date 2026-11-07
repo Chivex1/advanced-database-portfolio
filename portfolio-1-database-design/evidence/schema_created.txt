@@ -1,0 +1,26 @@
+USIRMS objects created (MySQL/MariaDB)
+
+table academic_session
+table assessment
+table attendance
+table campus
+table department
+table department_head
+table enrolment
+table fee_invoice
+table fee_payment
+table grade
+table module
+table module_offering
+table module_prerequisite
+table programme
+table programme_module
+table semester
+table staff
+table student
+table timetable_slot
+table transcript_issue
+view  v_invoice_balance
+view  v_semester_gpa
+view  v_student_cgpa
+view  v_transcript_line
