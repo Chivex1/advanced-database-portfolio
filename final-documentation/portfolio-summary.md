@@ -1,11 +1,11 @@
 # MIT 8103 Advanced Database Systems — Portfolio summary
 
 **Student:** Nwafor Chigor Nichodemus  
-**Matriculation number:** [to be supplied]  
+**Matriculation number:** 2026/A/MIT/0587  
 **Course:** MIT 8103 Advanced Database Systems  
 **Assessment:** Individual Practical Database Portfolio (40 marks)  
 **GitHub repository:** `https://github.com/Chivex1/advanced-database-portfolio`  
-*(Grant the assessor access before LMS submission. Replace matriculation number above before Commit 10.)*
+*(Grant the assessor access before LMS submission.)*
 
 ## Selected organisation
 

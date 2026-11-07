@@ -19,7 +19,7 @@ This organisation is used in every portfolio folder.
 
 All six assessed pieces are implemented with runnable scripts and captured evidence. Self-grade: **40/40** (see [SCORECARD.md](SCORECARD.md)).
 
-Replace the GitHub URL and student details in [final-documentation/portfolio-summary.md](final-documentation/portfolio-summary.md) before LMS submission.
+Student details and GitHub URL are in [final-documentation/portfolio-summary.md](final-documentation/portfolio-summary.md); grant the assessor repo access before LMS submission.
 
 ## Recreate on a clean machine
 

@@ -40,7 +40,7 @@ Self-graded after each component was implemented, executed, and (where needed) c
 
 ## What still needs the student (not the scripts)
 
-1. Replace `[Your name]`, `[Your number]`, and the GitHub URL in `final-documentation/portfolio-summary.md`.
+1. Confirm name, matriculation number (`2026/A/MIT/0587`), and GitHub URL in `final-documentation/portfolio-summary.md` before LMS upload.
 2. Create the private GitHub repository, push this project, and share it with the assessor.
 3. Export the summary to the LMS-required format (usually PDF).
 4. Optional: run `docker compose` in `portfolio-5-distributed-cloud/config/` if a live container screenshot is wanted later. Not required for the 6 marks as documented.
