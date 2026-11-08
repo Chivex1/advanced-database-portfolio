@@ -55,9 +55,9 @@ erDiagram
         int department_id FK
     }
     DEPARTMENT_HEAD {
-        int department_id PK_FK
+        int department_id PK
         int staff_id FK
-        date appointed_date
+        string appointed_date
     }
     PROGRAMME {
         int programme_id PK
@@ -75,15 +75,15 @@ erDiagram
         int department_id FK
     }
     PROGRAMME_MODULE {
-        int programme_id PK_FK
-        int module_id PK_FK
+        int programme_id PK
+        int module_id PK
         int level_year
         int semester_no
         int is_core
     }
     MODULE_PREREQUISITE {
-        int module_id PK_FK
-        int prerequisite_module_id PK_FK
+        int module_id PK
+        int prerequisite_module_id PK
     }
     STUDENT {
         int student_id PK
@@ -101,8 +101,8 @@ erDiagram
     ACADEMIC_SESSION {
         int session_id PK
         string session_label UK
-        date start_date
-        date end_date
+        string start_date
+        string end_date
         int is_current
     }
     SEMESTER {
@@ -154,7 +154,7 @@ erDiagram
         int attendance_id PK
         int slot_id FK
         int student_id FK
-        date attendance_date
+        string attendance_date
         string status
     }
     FEE_INVOICE {
