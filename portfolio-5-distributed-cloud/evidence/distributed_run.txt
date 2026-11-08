@@ -1,5 +1,6 @@
 USIRMS distributed database exercise
-generated: 2026-10-11 07:33:14
+generated: 2026-11-07 16:18:07
+DBMS: MySQL/MariaDB schemas usirms / usirms_frag_main / usirms_frag_north / usirms_replica
 
 Horizontal fragmentation (derived attribute: campus_code)
 global students: 1200
@@ -15,13 +16,13 @@ RU/ENG/2022/0005 -> NORTH fragment
 
 Replication
 replica before apply: level=1 status=Active
-primary committed issue_id=4 status=Requested
+primary committed issue_id=5 status=Requested
 replica before catch-up: matching rows=0 (expected 0)
 replica after apply: matching rows=1 (expected 1)
-Replication style: primary copy + synchronous catch-up (strong consistency after apply).
+Replication style: primary schema + logical replica catch-up (strong consistency after apply).
 During the gap the replica was available but stale (eventual consistency / DBASE).
 
 CAP choice for this case study:
-- Grade and fee writes: CP (consistency + partition tolerance). Refuse the write if the primary is unreachable.
-- Timetable / catalogue reads: AP (availability + partition). A campus may serve a slightly stale replica.
+- Grade and fee writes: CP. Refuse the write if the primary is unreachable.
+- Timetable / catalogue reads: AP. A campus may serve a slightly stale replica.
 See README and 01-architecture.md.
