@@ -31,14 +31,11 @@ Portfolio 2 rebuilds `usirms` at full scale (1,200 students). Portfolios 3–5 e
 | [portfolio-5-distributed-cloud/](portfolio-5-distributed-cloud/) | Distributed / cloud | `evidence/distributed_run.txt`, `01-architecture.md` |
 | [final-documentation/](final-documentation/) | LMS summary | [portfolio-summary.md](final-documentation/portfolio-summary.md) |
 
-Component-level pointers: [SCORECARD.md](SCORECARD.md).
-
 ## Repository layout
 
 ```text
 advanced-database-portfolio/
 ├── README.md
-├── SCORECARD.md
 ├── requirements.txt
 ├── shared/mysql_db.py
 ├── portfolio-1-database-design/ … portfolio-5-distributed-cloud/
