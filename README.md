@@ -41,5 +41,3 @@ advanced-database-portfolio/
 ├── portfolio-1-database-design/ … portfolio-5-distributed-cloud/
 └── final-documentation/
 ```
-
-Course brief copies (`mit-8103-*.md`, `plan.md`, `.cursor/`) stay local and are listed in `.gitignore` — not part of the GitHub submission.
