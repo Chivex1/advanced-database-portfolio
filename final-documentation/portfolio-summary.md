@@ -5,7 +5,7 @@
 **Course:** MIT 8103 Advanced Database Systems  
 **Assessment:** Individual Practical Database Portfolio (40 marks)  
 **GitHub repository:** `https://github.com/Chivex1/advanced-database-portfolio`  
-*(Grant the assessor access before LMS submission.)*
+
 
 ## Selected organisation
 
