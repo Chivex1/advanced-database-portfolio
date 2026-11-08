@@ -81,18 +81,3 @@ Oracle. (n.d.). MySQL 8.4 Reference Manual — `EXPLAIN` and InnoDB transaction 
 MariaDB Foundation. (n.d.). *MariaDB Knowledge Base* — isolation levels and InnoDB. https://mariadb.com/kb/
 
 Brewer, E. (2012). CAP twelve years later: How the “rules” have changed. *IEEE Computer, 45*(2), 23–29. (CAP trade-offs used in Portfolio 5.)
-
-## AI use declaration
-
-1. **Tool used:** Cursor (agent assistant, Grok 4.6) as a development and drafting aid.
-2. **Purpose:** Draft folder structure, SQL DDL, seed/query/transaction/NoSQL/distribution scripts, and explanatory write-ups aligned to the CA brief and module notes.
-3. **How the output was reviewed, corrected, tested, or verified:**
-   - Every executable artefact was run locally on Python 3.12 / MariaDB (MySQL-compatible InnoDB).
-   - The seeder was corrected when `UNIQUE (student_id, offering_id)` failed.
-   - Portfolio 2 timings and plans are engine output (`time.perf_counter`, `EXPLAIN`), not invented figures.
-   - Portfolio 3 two-connection demos were re-run after wording clean-up; pass conditions (rollback row count 0, dirty-read blocked, lost update 21 then 22) were checked in the evidence file.
-   - Portfolio 4 was corrected after a missing `module` join; Ada’s document and the CSC101–MIT8103 path were inspected.
-   - Portfolio 5 reconstruction (600+600=1200, overlap 0) and replica apply (0 then 1) were checked in `distributed_run.txt`.
-   - Technical claims were limited to what the scripts actually produced. Docker compose is documented as config, not as a live deployment.
-
-Use of the tool does not replace responsibility for the accuracy and understanding of this submission. I can explain any script, plan, or constraint if selected for verification.
