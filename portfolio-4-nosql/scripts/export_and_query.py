@@ -15,6 +15,8 @@ from __future__ import annotations
 import json
 import sys
 from collections import defaultdict, deque
+from datetime import date, datetime, time, timedelta
+from decimal import Decimal
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
@@ -24,6 +26,27 @@ from shared.mysql_db import Connection, connect  # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 EVIDENCE = ROOT / "evidence"
+
+
+def _json_default(obj: object) -> object:
+    if isinstance(obj, Decimal):
+        return float(obj)
+    if isinstance(obj, datetime):
+        return obj.isoformat()
+    if isinstance(obj, date):
+        return obj.isoformat()
+    if isinstance(obj, time):
+        return obj.isoformat()
+    if isinstance(obj, timedelta):
+        total = int(obj.total_seconds())
+        h, rem = divmod(total, 3600)
+        m, s = divmod(rem, 60)
+        return f"{h:02d}:{m:02d}:{s:02d}"
+    raise TypeError(f"Object of type {type(obj).__name__} is not JSON serializable")
+
+
+def _dumps(obj: object) -> str:
+    return json.dumps(obj, indent=2, default=_json_default)
 
 
 def export_documents(conn: Connection, limit: int | None) -> int:
@@ -119,7 +142,7 @@ def export_documents(conn: Connection, limit: int | None) -> int:
             "enrolments": enrol_by_student[s["student_id"]],
         }
         (doc_dir / f"{s['matric_no'].replace('/', '_')}.json").write_text(
-            json.dumps(doc, indent=2), encoding="utf-8"
+            _dumps(doc), encoding="utf-8"
         )
     return len(students)
 
@@ -165,7 +188,7 @@ def export_kv(conn: Connection) -> int:
     for r in bals:
         store[f"fees:{r['matric_no']}"] = {"balance": r["balance"], "status": r["status"]}
 
-    kv_path.write_text(json.dumps(store, indent=2), encoding="utf-8")
+    kv_path.write_text(_dumps(store), encoding="utf-8")
     return len(store)
 
 
@@ -186,7 +209,7 @@ def export_graph(conn: Connection) -> dict:
         )
     ]
     graph = {"nodes": nodes, "edges": edges}
-    (DATA / "graph.json").write_text(json.dumps(graph, indent=2), encoding="utf-8")
+    (DATA / "graph.json").write_text(_dumps(graph), encoding="utf-8")
     return graph
 
 
@@ -255,7 +278,7 @@ def main() -> int:
     ada_doc = json.loads(
         (DATA / "documents" / "RU_CSC_2024_001.json").read_text(encoding="utf-8")
     )
-    (EVIDENCE / "document_ada.json").write_text(json.dumps(ada_doc, indent=2), encoding="utf-8")
+    (EVIDENCE / "document_ada.json").write_text(_dumps(ada_doc), encoding="utf-8")
 
     lines = [
         "USIRMS NoSQL implementation evidence",
@@ -264,16 +287,16 @@ def main() -> int:
         f"graph nodes={len(graph['nodes'])} edges={len(graph['edges'])}",
         "",
         "Document lookup RU/CSC/2024/001 (no SQL at read time)",
-        json.dumps(ada, indent=2),
+        _dumps(ada),
         "",
         "Key-value lookup timetable:RU/CSC/2024/001 and fees:RU/CSC/2024/001",
-        json.dumps(kv, indent=2),
+        _dumps(kv),
         "(Ada has no open Registered offering after Portfolio 3 finalised CSC102.)",
         "Sample non-empty timetable key:",
-        json.dumps(sample_tt, indent=2),
+        _dumps(sample_tt),
         "",
         "Graph: directed paths CSC101 -> MIT8103 (prerequisite chain)",
-        json.dumps(paths, indent=2),
+        _dumps(paths),
         "",
         "Read path: open JSON documents / kv_store.json / graph.json.",
         "Write path for official marks remains the relational database (Portfolio 1-3).",
