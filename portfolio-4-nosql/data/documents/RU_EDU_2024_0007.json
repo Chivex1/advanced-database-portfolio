@@ -20,35 +20,6 @@
   },
   "enrolments": [
     {
-      "module_code": "GST101",
-      "module_title": "Communication in English",
-      "credit_units": 2,
-      "session": "2024/2025",
-      "semester": 1,
-      "lecturer": "Tola Balogun",
-      "status": "Completed",
-      "final_mark": 60.0,
-      "letter_grade": "B",
-      "grade_point": 4,
-      "enrolled_on": "2024-09-10",
-      "assessments": [
-        {
-          "type": "CA",
-          "title": "CA offering 18",
-          "weight_percent": 30.0,
-          "score": 24.0,
-          "status": "Published"
-        },
-        {
-          "type": "Exam",
-          "title": "Exam offering 18",
-          "weight_percent": 70.0,
-          "score": 36.0,
-          "status": "Published"
-        }
-      ]
-    },
-    {
       "module_code": "EDU101",
       "module_title": "Foundations of Education",
       "credit_units": 3,
@@ -102,6 +73,35 @@
           "title": "Exam offering 17",
           "weight_percent": 70.0,
           "score": 70.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "module_code": "GST101",
+      "module_title": "Communication in English",
+      "credit_units": 2,
+      "session": "2024/2025",
+      "semester": 1,
+      "lecturer": "Tola Balogun",
+      "status": "Completed",
+      "final_mark": 60.0,
+      "letter_grade": "B",
+      "grade_point": 4,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 18",
+          "weight_percent": 30.0,
+          "score": 24.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 18",
+          "weight_percent": 70.0,
+          "score": 36.0,
           "status": "Published"
         }
       ]

@@ -20,6 +20,35 @@
   },
   "enrolments": [
     {
+      "module_code": "CSC101",
+      "module_title": "Introduction to Computing",
+      "credit_units": 3,
+      "session": "2025/2026",
+      "semester": 1,
+      "lecturer": "Nkechi Nnamdi",
+      "status": "Completed",
+      "final_mark": 82.0,
+      "letter_grade": "A",
+      "grade_point": 5,
+      "enrolled_on": "2024-09-10",
+      "assessments": [
+        {
+          "type": "CA",
+          "title": "CA offering 49",
+          "weight_percent": 30.0,
+          "score": 26.0,
+          "status": "Published"
+        },
+        {
+          "type": "Exam",
+          "title": "Exam offering 49",
+          "weight_percent": 70.0,
+          "score": 56.0,
+          "status": "Published"
+        }
+      ]
+    },
+    {
       "module_code": "MTH101",
       "module_title": "Elementary Mathematics I",
       "credit_units": 3,
@@ -36,7 +65,7 @@
           "type": "CA",
           "title": "CA offering 55",
           "weight_percent": 30.0,
-          "score": 22.0,
+          "score": 21.0,
           "status": "Published"
         },
         {
@@ -73,35 +102,6 @@
           "title": "Exam offering 66",
           "weight_percent": 70.0,
           "score": 38.0,
-          "status": "Published"
-        }
-      ]
-    },
-    {
-      "module_code": "CSC101",
-      "module_title": "Introduction to Computing",
-      "credit_units": 3,
-      "session": "2025/2026",
-      "semester": 1,
-      "lecturer": "Nkechi Nnamdi",
-      "status": "Completed",
-      "final_mark": 82.0,
-      "letter_grade": "A",
-      "grade_point": 5,
-      "enrolled_on": "2024-09-10",
-      "assessments": [
-        {
-          "type": "CA",
-          "title": "CA offering 49",
-          "weight_percent": 30.0,
-          "score": 26.0,
-          "status": "Published"
-        },
-        {
-          "type": "Exam",
-          "title": "Exam offering 49",
-          "weight_percent": 70.0,
-          "score": 56.0,
           "status": "Published"
         }
       ]

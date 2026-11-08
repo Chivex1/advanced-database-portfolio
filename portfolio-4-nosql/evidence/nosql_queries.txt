@@ -11,9 +11,9 @@ Document lookup RU/CSC/2024/001 (no SQL at read time)
   "enrolment_count": 4,
   "cgpa": 4.64,
   "modules": [
+    "CSC101 A (82.0)",
     "MTH101 A (90.0)",
     "GST101 C (54.0)",
-    "CSC101 A (82.0)",
     "CSC102 A (74.0)"
   ]
 }
@@ -29,13 +29,13 @@ Key-value lookup timetable:RU/CSC/2024/001 and fees:RU/CSC/2024/001
 (Ada has no open Registered offering after Portfolio 3 finalised CSC102.)
 Sample non-empty timetable key:
 {
-  "timetable:RU/ENG/2022/0005": [
+  "timetable:RU/CSC/2022/0009": [
     {
-      "module": "GST101",
-      "day": "Mon",
-      "start": "10:00",
-      "end": "12:00",
-      "venue": "LT7"
+      "module": "CSC102",
+      "day": "Fri",
+      "start": "10:00:00",
+      "end": "12:00:00",
+      "venue": "LT3"
     }
   ]
 }

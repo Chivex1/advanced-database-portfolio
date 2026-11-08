@@ -128,13 +128,23 @@
       "type": "PREREQUISITE"
     },
     {
+      "from": "CSC101",
+      "to": "CSC202",
+      "type": "PREREQUISITE"
+    },
+    {
       "from": "CSC102",
       "to": "CSC201",
       "type": "PREREQUISITE"
     },
     {
-      "from": "CSC101",
-      "to": "CSC202",
+      "from": "CSC201",
+      "to": "CSC301",
+      "type": "PREREQUISITE"
+    },
+    {
+      "from": "CSC201",
+      "to": "CSC302",
       "type": "PREREQUISITE"
     },
     {
@@ -155,16 +165,6 @@
     {
       "from": "BIO101",
       "to": "BIO201",
-      "type": "PREREQUISITE"
-    },
-    {
-      "from": "CSC201",
-      "to": "CSC301",
-      "type": "PREREQUISITE"
-    },
-    {
-      "from": "CSC201",
-      "to": "CSC302",
       "type": "PREREQUISITE"
     }
   ]
