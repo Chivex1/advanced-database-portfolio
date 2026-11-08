@@ -1,40 +1,3 @@
-# Conceptual design — Entity-Relationship model
-
-This ERD is the **conceptual** model from the module design stages: it is independent of physical storage details. The logical schema in `03-relational-schema.md` is the mapped relational form (implemented on MySQL/MariaDB InnoDB).
-
-Chen-style notation used in the module:
-
-- Entity — rectangle
-- Relationship — diamond (shown here as labelled connectors)
-- Attribute — ellipse (listed under each entity)
-- Multi-valued / composite attributes are avoided; repeating data is modelled as entities
-
-## Cardinality summary
-
-| Relationship | Cardinality | Rule |
-| --- | --- | --- |
-| Campus hosts Department | 1 : N | A campus has many departments; a department belongs to one home campus |
-| Department employs Staff | 1 : N | Staff (except Registrar/Admin) belong to one department |
-| Department headed-by Staff | 1 : 0..1 | At most one current HoD |
-| Department offers Programme | 1 : N | A programme belongs to one department |
-| Department owns Module | 1 : N | A module has one owning department |
-| Programme includes Module | M : N | Via `programme_module` (level, semester, core/elective) |
-| Module requires Module | M : N | Prerequisites (no self-prerequisite) |
-| Student belongs-to Programme | N : 1 | A student has one registered programme |
-| Staff advises Student | 1 : N | An advisor may have many advisees |
-| Session contains Semester | 1 : 2 | Two semesters per session |
-| Module offered-in Semester | M : N | Via `module_offering` with one lecturer |
-| Student enrols-on Offering | M : N | Via `enrolment` |
-| Offering has Assessment | 1 : N | CA, exam, project, practical |
-| Enrolment receives Grade | 1 : N | One score per assessment |
-| Offering scheduled-as Slot | 1 : N | Timetable rows |
-| Student attends Slot | M : N | Via `attendance` on a date |
-| Student billed-by Invoice | 1 : N | One invoice per student per session |
-| Invoice collected-as Payment | 1 : N | Partial payments allowed |
-| Student requests TranscriptIssue | 1 : N | Issuance is logged, not stored as a duplicate of results |
-
-## ERD (logical-level Crow’s Foot)
-
 ```mermaid
 erDiagram
     CAMPUS ||--o{ DEPARTMENT : hosts
@@ -215,11 +178,3 @@ erDiagram
         int issued_by FK
     }
 ```
-
-## Design notes that affect later portfolios
-
-- **Campus** is a first-class entity so Portfolio 5 can fragment students and offerings by site without inventing a new schema.
-- **Module offering** separates the catalogue module from a taught instance. Grades attach to the instance, which is required for historical transcripts.
-- **Transcript issue** is a request/audit entity. The transcript *content* is a query over enrolments (Portfolio 2), not a second copy of every grade.
-- **Fee invoice + payment** models a one-to-many collection so partial payments do not violate 1NF.
-- Weak/associative entities (`programme_module`, `enrolment`, `grade`, `attendance`) carry their own attributes and therefore appear as relations, not as attributes of a parent.
