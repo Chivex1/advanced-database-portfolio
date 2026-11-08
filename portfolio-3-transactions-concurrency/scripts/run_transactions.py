@@ -257,12 +257,16 @@ def demo_lost_update(lines: list[str]) -> None:
         start = a.execute("SELECT score FROM grade WHERE grade_id = %s", (gid,)).fetchone()["score"]
         lines.append(f"start score={start} (reset to 20)")
 
+        a.execute("SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED")
+        b.execute("SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED")
+        a.execute("START TRANSACTION")
+        b.execute("START TRANSACTION")
         a_score = a.execute("SELECT score FROM grade WHERE grade_id = %s", (gid,)).fetchone()["score"]
         b_score = b.execute("SELECT score FROM grade WHERE grade_id = %s", (gid,)).fetchone()["score"]
         a.execute("UPDATE grade SET score = %s WHERE grade_id = %s", (float(a_score) + 1, gid))
-        a.commit()
+        a.execute("COMMIT")
         b.execute("UPDATE grade SET score = %s WHERE grade_id = %s", (float(b_score) + 1, gid))
-        b.commit()
+        b.execute("COMMIT")
         lost = a.execute("SELECT score FROM grade WHERE grade_id = %s", (gid,)).fetchone()["score"]
         lines.append(
             f"naive RMW: A read {a_score}, B read {b_score}, both wrote +1, stored score={lost}"
@@ -271,6 +275,8 @@ def demo_lost_update(lines: list[str]) -> None:
 
         a.execute("UPDATE grade SET score = 20 WHERE grade_id = %s", (gid,))
         a.commit()
+        a.execute("SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ")
+        b.execute("SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ")
         lines.append("reset to 20; retry with row lock and atomic increment")
         a.execute("SET innodb_lock_wait_timeout = 2")
         b.execute("SET innodb_lock_wait_timeout = 2")

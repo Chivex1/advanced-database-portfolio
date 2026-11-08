@@ -42,7 +42,7 @@ This is **controlled denormalisation**. Student name and programme sit inside th
 
 Document and key-value copies are **Basically Available** and **Eventually Consistent** with the relational store:
 
-- Export is a batch (ETL-like) from SQLite → JSON.
+- Export is a batch (ETL-like) from MySQL/MariaDB → JSON.
 - A mark committed in Portfolio 3 appears in the document only after the next export.
 - Soft state: two readers can see different generations of `document_ada.json` during an export.
 

@@ -2618,4755 +2618,7 @@
       "venue": "LT7"
     }
   ],
-  "fees:RU/CSC/2025/1200": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/1199": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1198": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1197": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1196": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1195": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/1194": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1193": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1192": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1191": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1190": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/1189": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1188": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1187": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1186": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1185": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/1184": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/1183": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1182": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1181": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1180": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/1179": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1178": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1177": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1176": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1175": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/1174": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1173": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1172": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1171": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1170": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/1169": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1168": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1167": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1166": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1165": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/1164": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1163": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1162": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1161": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1160": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/1159": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1158": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1157": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1156": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1155": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/1154": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1153": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1152": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1151": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1150": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/1149": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1148": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1147": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/1146": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1145": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/1144": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1143": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1142": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1141": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1140": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/1139": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1138": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1137": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1136": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1135": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/1134": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1133": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1132": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1131": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1130": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/1129": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1128": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1127": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1126": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1125": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/1124": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1123": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1122": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1121": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1120": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/1119": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1118": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1117": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1116": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1115": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/1114": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1113": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1112": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1111": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1110": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/1109": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1108": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1107": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1106": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1105": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/1104": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1103": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1102": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1101": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1100": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/1099": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1098": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1097": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1096": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1095": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/1094": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1093": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1092": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1091": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1090": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/1089": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1088": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1087": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1086": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1085": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/1084": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1083": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1082": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1081": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1080": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/1079": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1078": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1077": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1076": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1075": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/1074": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1073": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/1072": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1071": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1070": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/1069": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1068": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1067": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1066": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1065": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/1064": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1063": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1062": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1061": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1060": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/1059": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1058": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1057": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1056": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1055": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/1054": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1053": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1052": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1051": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1050": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/1049": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1048": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1047": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1046": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1045": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/1044": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1043": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1042": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1041": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1040": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/1039": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1038": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1037": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1036": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/1035": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/1034": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1033": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1032": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1031": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1030": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/1029": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1028": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1027": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1026": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1025": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/1024": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1023": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1022": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1021": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1020": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/1019": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1018": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1017": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1016": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1015": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/1014": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1013": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/1012": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1011": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1010": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/1009": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1008": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/1007": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/1006": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/1005": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/1004": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/1003": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/1002": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/1001": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/1000": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0999": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0998": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0997": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0996": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0995": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0994": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0993": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0992": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0991": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0990": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0989": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0988": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0987": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0986": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0985": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0984": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0983": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0982": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0981": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0980": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0979": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0978": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0977": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0976": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0975": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0974": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0973": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0972": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0971": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0970": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0969": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0968": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0967": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0966": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0965": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0964": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0963": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0962": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0961": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0960": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0959": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0958": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0957": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0956": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0955": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0954": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0953": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0952": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0951": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0950": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0949": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0948": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0947": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0946": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0945": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0944": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0943": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0942": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0941": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0940": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0939": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0938": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0937": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0936": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0935": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0934": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0933": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0932": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0931": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0930": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0929": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0928": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0927": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0926": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0925": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0924": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0923": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0922": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0921": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0920": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0919": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0918": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0917": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0916": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0915": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0914": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0913": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0912": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0911": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0910": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0909": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0908": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0907": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0906": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0905": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0904": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0903": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0902": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0901": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0900": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0899": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0898": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0897": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0896": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0895": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0894": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0893": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0892": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0891": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0890": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0889": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0888": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0887": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0886": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0885": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0884": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0883": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0882": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0881": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0880": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0879": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0878": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0877": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0876": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0875": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0874": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0873": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0872": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0871": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0870": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0869": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0868": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0867": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0866": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0865": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0864": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0863": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0862": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0861": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0860": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0859": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0858": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0857": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0856": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0855": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0854": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0853": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0852": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0851": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0850": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0849": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0848": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0847": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0846": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0845": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0844": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0843": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0842": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0841": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0840": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0839": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0838": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0837": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0836": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0835": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0834": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0833": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0832": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0831": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0830": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0829": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0828": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0827": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0826": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0825": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0824": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0823": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0822": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0821": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0820": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0819": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0818": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0817": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0816": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0815": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0814": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0813": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0812": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0811": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0810": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0809": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0808": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0807": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0806": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0805": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0804": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0803": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0802": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0801": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0800": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0799": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0798": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0797": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0796": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0795": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0794": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0793": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0792": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0791": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0790": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0789": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0788": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0787": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0786": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0785": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0784": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0783": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0782": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0781": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0780": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0779": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0778": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0777": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0776": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0775": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0774": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0773": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0772": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0771": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0770": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0769": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0768": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0767": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0766": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0765": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0764": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0763": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0762": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0761": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0760": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0759": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0758": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0757": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0756": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0755": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0754": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0753": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0752": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0751": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0750": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0749": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0748": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0747": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0746": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0745": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0744": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0743": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0742": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0741": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0740": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0739": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0738": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0737": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0736": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0735": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0734": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0733": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0732": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0731": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0730": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0729": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0728": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0727": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0726": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0725": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0724": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0723": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0722": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0721": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0720": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0719": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0718": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0717": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0716": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0715": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0714": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0713": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0712": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0711": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0710": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0709": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0708": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0707": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0706": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0705": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0704": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0703": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0702": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0701": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0700": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0699": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0698": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0697": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0696": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0695": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0694": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0693": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0692": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0691": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0690": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0689": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0688": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0687": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0686": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0685": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0684": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0683": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0682": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0681": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0680": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0679": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0678": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0677": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0676": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0675": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0674": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0673": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0672": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0671": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0670": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0669": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0668": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0667": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0666": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0665": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0664": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0663": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0662": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0661": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0660": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0659": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0658": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0657": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0656": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0655": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0654": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0653": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0652": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0651": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0650": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0649": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0648": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0647": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0646": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0645": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0644": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0643": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0642": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0641": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0640": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0639": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0638": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0637": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0636": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0635": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0634": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0633": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0632": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0631": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0630": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0629": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0628": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0627": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0626": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0625": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0624": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0623": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0622": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0621": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0620": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0619": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0618": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0617": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0616": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0615": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0614": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0613": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0612": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0611": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0610": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0609": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0608": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0607": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0606": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0605": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0604": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0603": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0602": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0601": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0600": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0599": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0598": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0597": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0596": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0595": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0594": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0593": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0592": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0591": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0590": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0589": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0588": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0587": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0586": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0585": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0584": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0583": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0582": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0581": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0580": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0579": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0578": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0577": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0576": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0575": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0574": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0573": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0572": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0571": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0570": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0569": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0568": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0567": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0566": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0565": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0564": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0563": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0562": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0561": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0560": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0559": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0558": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0557": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0556": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0555": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0554": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0553": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0552": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0551": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0550": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0549": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0548": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0547": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0546": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0545": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0544": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0543": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0542": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0541": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0540": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0539": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0538": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0537": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0536": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0535": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0534": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0533": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0532": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0531": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0530": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0529": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0528": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0527": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0526": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0525": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0524": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0523": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0522": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0521": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0520": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0519": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0518": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0517": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0516": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0515": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0514": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0513": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0512": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0511": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0510": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0509": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0508": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0507": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0506": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0505": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0504": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0503": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0502": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0501": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0500": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0499": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0498": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0497": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0496": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0495": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0494": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0493": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0492": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0491": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0490": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0489": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0488": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0487": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0486": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0485": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0484": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0483": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0482": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0481": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0480": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0479": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0478": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0477": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0476": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0475": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0474": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0473": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0472": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0471": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0470": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0469": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0468": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0467": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0466": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0465": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0464": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0463": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0462": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0461": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0460": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0459": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0458": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0457": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0456": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0455": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0454": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0453": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0452": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0451": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0450": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0449": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0448": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0447": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0446": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0445": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0444": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0443": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0442": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0441": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0440": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0439": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0438": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0437": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0436": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0435": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0434": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0433": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0432": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0431": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0430": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0429": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0428": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0427": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0426": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0425": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0424": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0423": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0422": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0421": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0420": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0419": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0418": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0417": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0416": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0415": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0414": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0413": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0412": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0411": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0410": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0409": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0408": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0407": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0406": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0405": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0404": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0403": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0402": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0401": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0400": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0399": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0398": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0397": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0396": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0395": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0394": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0393": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0392": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0391": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0390": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0389": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0388": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0387": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0386": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0385": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0384": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0383": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0382": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0381": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0380": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0379": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0378": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0377": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0376": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0375": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0374": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0373": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0372": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0371": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0370": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0369": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0368": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0367": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0366": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0365": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0364": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0363": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0362": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0361": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0360": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0359": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0358": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0357": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0356": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0355": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0354": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0353": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0352": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0351": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0350": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0349": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0348": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0347": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0346": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0345": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0344": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0343": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0342": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0341": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0340": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0339": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0338": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0337": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0336": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0335": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0334": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0333": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0332": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0331": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0330": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0329": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0328": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0327": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0326": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0325": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0324": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0323": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0322": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0321": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0320": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0319": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0318": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0317": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0316": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0315": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0314": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0313": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0312": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0311": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0310": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0309": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0308": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0307": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0306": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0305": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0304": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0303": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0302": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0301": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0300": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0299": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0298": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0297": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0296": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0295": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0294": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0293": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0292": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0291": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0290": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0289": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0288": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0287": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0286": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0285": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0284": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0283": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0282": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0281": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0280": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/EDU/2024/0279": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0278": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0277": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0276": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0275": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0274": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0273": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0272": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0271": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0270": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0269": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0268": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0267": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0266": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0265": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0264": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0263": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0262": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0261": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0260": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0259": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0258": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0257": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0256": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0255": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0254": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0253": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0252": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0251": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0250": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0249": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0248": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0247": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0246": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0245": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0244": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0243": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0242": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0241": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0240": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0239": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0238": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0237": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0236": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0235": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0234": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0233": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0232": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0231": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0230": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0229": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0228": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0227": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0226": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0225": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0224": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0223": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0222": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0221": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0220": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0219": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0218": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0217": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0216": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0215": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0214": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0213": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0212": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0211": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0210": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0209": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0208": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0207": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0206": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0205": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0204": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0203": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0202": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0201": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0200": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0199": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0198": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0197": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0196": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0195": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0194": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0193": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0192": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0191": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0190": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0189": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0188": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0187": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0186": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0185": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0184": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0183": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0182": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0181": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0180": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0179": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0178": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0177": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0176": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0175": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0174": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0173": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0172": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0171": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0170": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0169": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0168": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0167": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0166": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0165": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0164": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0163": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0162": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0161": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0160": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0159": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0158": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0157": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0156": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0155": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0154": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0153": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0152": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0151": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0150": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0149": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0148": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0147": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0146": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0145": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0144": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0143": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0142": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0141": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0140": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/MTH/2024/0139": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0138": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0137": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0136": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0135": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0134": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0133": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0132": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0131": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0130": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0129": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0128": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0127": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0126": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0125": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0124": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0123": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0122": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0121": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0120": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0119": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0118": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0117": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0116": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0115": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0114": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0113": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0112": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0111": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/BIO/2023/0110": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0109": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0108": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0107": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0106": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0105": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2025/0104": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0103": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0102": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0101": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0100": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0099": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0098": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0097": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0096": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0095": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0094": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0093": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0092": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0091": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0090": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0089": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0088": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0087": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0086": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0085": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0084": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0083": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0082": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0081": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0080": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0079": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0078": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0077": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0076": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0075": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2023/0074": {
-    "balance": 350000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2022/0073": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0072": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0071": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0070": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ENG/2022/0069": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0068": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0067": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0066": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0065": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0064": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0063": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0062": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0061": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0060": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0059": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0058": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0057": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0056": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0055": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0054": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0053": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0052": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0051": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0050": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2022/0049": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0048": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0047": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0046": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0045": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0044": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0043": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0042": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0041": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0040": {
-    "balance": 175000.0,
-    "status": "Partial"
-  },
-  "fees:RU/EDU/2024/0039": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0038": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0037": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/ACC/2025/0036": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0035": {
-    "balance": 250000.0,
-    "status": "Unpaid"
-  },
-  "fees:RU/CSC/2023/0034": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0033": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0032": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0031": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0030": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ENG/2022/0029": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0028": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/MTH/2024/0027": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0026": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0025": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/CSC/2025/0024": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0023": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/BIO/2023/0022": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0021": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ACC/2025/0020": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/MTH/2024/0019": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0018": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2022/0017": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2025/0016": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/EDU/2024/0015": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/BIO/2023/0014": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/ENG/2022/0013": {
+  "fees:RU/ACC/2025/0004": {
     "balance": 0.0,
     "status": "Paid"
   },
@@ -7374,23 +2626,595 @@
     "balance": 0.0,
     "status": "Paid"
   },
-  "fees:RU/MTH/2024/0011": {
-    "balance": 0.0,
-    "status": "Paid"
-  },
-  "fees:RU/CSC/2023/0010": {
-    "balance": 175000.0,
+  "fees:RU/ACC/2025/0020": {
+    "balance": 125000.0,
     "status": "Partial"
   },
-  "fees:RU/CSC/2022/0009": {
+  "fees:RU/ACC/2025/0028": {
     "balance": 0.0,
     "status": "Paid"
   },
-  "fees:RU/CSC/2025/0008": {
+  "fees:RU/ACC/2025/0036": {
     "balance": 0.0,
     "status": "Paid"
   },
-  "fees:RU/EDU/2024/0007": {
+  "fees:RU/ACC/2025/0044": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0052": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0060": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0068": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0076": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0084": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0092": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0100": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0108": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0116": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0124": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0132": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0140": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0148": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0156": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0164": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0172": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0180": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0188": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0196": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0204": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0212": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0220": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0228": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0236": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0244": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0252": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0260": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0268": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0276": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0284": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0292": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0300": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0308": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0316": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0324": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0332": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0340": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0348": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0356": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0364": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0372": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0380": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0388": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0396": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0404": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0412": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0420": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0428": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0436": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0444": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0452": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0460": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0468": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0476": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0484": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0492": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0500": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0508": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0516": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0524": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0532": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0540": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0548": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0556": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0564": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0572": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0580": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0588": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0596": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0604": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0612": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0620": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0628": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0636": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0644": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0652": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0660": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0668": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0676": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0684": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0692": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0700": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0708": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0716": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0724": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0732": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0740": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0748": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0756": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0764": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0772": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0780": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0788": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0796": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0804": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0812": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0820": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0828": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0836": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0844": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0852": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0860": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0868": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0876": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0884": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0892": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0900": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0908": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0916": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0924": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0932": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0940": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/0948": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0956": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0964": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0972": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0980": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/0988": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/0996": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1004": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1012": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1020": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/1028": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1036": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ACC/2025/1044": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1052": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1060": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/1068": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1076": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1084": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1092": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1100": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/1108": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1116": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1124": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1132": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1140": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/1148": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1156": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1164": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1172": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1180": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ACC/2025/1188": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ACC/2025/1196": {
     "balance": 0.0,
     "status": "Paid"
   },
@@ -7398,15 +3222,1195 @@
     "balance": 0.0,
     "status": "Paid"
   },
-  "fees:RU/ENG/2022/0005": {
-    "balance": 125000.0,
-    "status": "Partial"
-  },
-  "fees:RU/ACC/2025/0004": {
+  "fees:RU/BIO/2023/0014": {
     "balance": 0.0,
     "status": "Paid"
   },
-  "fees:RU/MTH/2024/0003": {
+  "fees:RU/BIO/2023/0022": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0030": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0038": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0046": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0054": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0062": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0070": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0078": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0086": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0094": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0102": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0110": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0118": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0126": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0134": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0142": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0150": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0158": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0166": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0174": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0182": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0190": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0198": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0206": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0214": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0222": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0230": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0238": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0246": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0254": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0262": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0270": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0278": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0286": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0294": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0302": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0310": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0318": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0326": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0334": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0342": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0350": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0358": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0366": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0374": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0382": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0390": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0398": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0406": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0414": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0422": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0430": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0438": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0446": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0454": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0462": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0470": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0478": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0486": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0494": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0502": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0510": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0518": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0526": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0534": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0542": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0550": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0558": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0566": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0574": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0582": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0590": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0598": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0606": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0614": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0622": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0630": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0638": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0646": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0654": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0662": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0670": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0678": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0686": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0694": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0702": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0710": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0718": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0726": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0734": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0742": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0750": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0758": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0766": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0774": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0782": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0790": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0798": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0806": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0814": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0822": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0830": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0838": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0846": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0854": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0862": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0870": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0878": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0886": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0894": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0902": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0910": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/0918": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0926": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0934": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0942": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0950": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0958": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0966": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0974": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0982": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/0990": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/0998": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1006": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1014": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1022": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1030": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/1038": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1046": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1054": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1062": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1070": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/1078": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1086": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1094": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1102": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1110": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/1118": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1126": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1134": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1142": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1150": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/BIO/2023/1158": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1166": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1174": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1182": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/BIO/2023/1190": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/BIO/2023/1198": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0009": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0017": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0025": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0033": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0041": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0049": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0057": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0065": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0073": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0081": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0089": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0097": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0105": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0113": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0121": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0129": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0137": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0145": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0153": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0161": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0169": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0177": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0185": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0193": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0201": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0209": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0217": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0225": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0233": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0241": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0249": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0257": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0265": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0273": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0281": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0289": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0297": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0305": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0313": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0321": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0329": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0337": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0345": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0353": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0361": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0369": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0377": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0385": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0393": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0401": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0409": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0417": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0425": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0433": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0441": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0449": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0457": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0465": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0473": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0481": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0489": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0497": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0505": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0513": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0521": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0529": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0537": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0545": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0553": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0561": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0569": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0577": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0585": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0593": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0601": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0609": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0617": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0625": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0633": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0641": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0649": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0657": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0665": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0673": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0681": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0689": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0697": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0705": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0713": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0721": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0729": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0737": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0745": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0753": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0761": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0769": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0777": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0785": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0793": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0801": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0809": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0817": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0825": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0833": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0841": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0849": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0857": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0865": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0873": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0881": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0889": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0897": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0905": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0913": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0921": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0929": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0937": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0945": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/0953": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0961": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0969": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0977": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/0985": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/0993": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1001": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1009": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1017": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1025": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/1033": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1041": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1049": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1057": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1065": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/1073": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2022/1081": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1089": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1097": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1105": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/1113": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1121": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1129": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1137": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1145": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/1153": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1161": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1169": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1177": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2022/1185": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2022/1193": {
     "balance": 0.0,
     "status": "Paid"
   },
@@ -7414,8 +4418,3004 @@
     "balance": 0.0,
     "status": "Paid"
   },
+  "fees:RU/CSC/2023/0010": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0018": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0026": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0034": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0042": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0050": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0058": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0066": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0074": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0082": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0090": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0098": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0106": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0114": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0122": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0130": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0138": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0146": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0154": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0162": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0170": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0178": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0186": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0194": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0202": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0210": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0218": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0226": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0234": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0242": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0250": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0258": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0266": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0274": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0282": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0290": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0298": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0306": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0314": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0322": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0330": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0338": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0346": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0354": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0362": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0370": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0378": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0386": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0394": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0402": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0410": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0418": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0426": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0434": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0442": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0450": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0458": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0466": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0474": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0482": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0490": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0498": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0506": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0514": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0522": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0530": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0538": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0546": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0554": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0562": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0570": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0578": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0586": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0594": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0602": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0610": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0618": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0626": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0634": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0642": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0650": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0658": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0666": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0674": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0682": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0690": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0698": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0706": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0714": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0722": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0730": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0738": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0746": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0754": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0762": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0770": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0778": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0786": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0794": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0802": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0810": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0818": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0826": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0834": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0842": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0850": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0858": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0866": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0874": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0882": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0890": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0898": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0906": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0914": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0922": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0930": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0938": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0946": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0954": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0962": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/0970": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/0978": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0986": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/0994": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1002": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1010": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/1018": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1026": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1034": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1042": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1050": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2023/1058": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1066": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1074": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1082": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1090": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/1098": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1106": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1114": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1122": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1130": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/1138": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1146": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1154": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1162": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1170": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2023/1178": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1186": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2023/1194": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
   "fees:RU/CSC/2024/001": {
     "balance": 0.0,
     "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0008": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0016": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0024": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0032": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0040": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0048": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0056": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0064": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0072": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0080": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0088": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0096": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0104": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0112": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0120": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0128": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0136": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0144": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0152": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0160": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0168": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0176": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0184": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0192": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0200": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0208": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0216": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0224": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0232": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0240": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0248": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0256": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0264": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0272": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0280": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0288": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0296": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0304": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0312": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0320": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0328": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0336": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0344": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0352": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0360": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0368": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0376": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0384": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0392": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0400": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0408": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0416": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0424": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0432": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0440": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0448": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0456": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0464": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0472": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0480": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0488": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0496": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0504": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0512": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0520": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0528": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0536": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0544": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0552": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0560": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0568": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0576": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0584": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0592": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0600": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0608": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0616": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0624": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0632": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0640": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0648": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0656": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0664": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0672": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0680": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0688": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0696": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0704": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0712": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0720": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0728": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0736": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0744": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0752": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0760": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0768": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0776": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0784": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0792": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0800": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0808": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0816": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0824": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0832": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0840": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0848": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0856": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0864": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0872": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0880": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0888": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/0896": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0904": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0912": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0920": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0928": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0936": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0944": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0952": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0960": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/0968": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0976": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0984": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/0992": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1000": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/1008": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1016": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1024": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1032": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1040": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/1048": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1056": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1064": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1072": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1080": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/1088": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1096": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1104": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1112": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1120": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/1128": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1136": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1144": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1152": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1160": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/CSC/2025/1168": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1176": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1184": {
+    "balance": 350000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/CSC/2025/1192": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/CSC/2025/1200": {
+    "balance": 175000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0007": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0015": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0023": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0031": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0039": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0047": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0055": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0063": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0071": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0079": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0087": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0095": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0103": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0111": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0119": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0127": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0135": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0143": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0151": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0159": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0167": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0175": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0183": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0191": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0199": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0207": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0215": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0223": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0231": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0239": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0247": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0255": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0263": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0271": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0279": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0287": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0295": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0303": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0311": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0319": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0327": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0335": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0343": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0351": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0359": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0367": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0375": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0383": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0391": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0399": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0407": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0415": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0423": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0431": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0439": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0447": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0455": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0463": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0471": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0479": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0487": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0495": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0503": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0511": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0519": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0527": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0535": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0543": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0551": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0559": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0567": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0575": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0583": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0591": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0599": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0607": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0615": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0623": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0631": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0639": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0647": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0655": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0663": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0671": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0679": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0687": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0695": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0703": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0711": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0719": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0727": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0735": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/0743": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0751": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0759": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0767": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0775": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0783": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0791": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0799": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0807": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0815": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0823": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0831": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0839": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0847": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0855": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0863": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0871": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0879": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0887": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0895": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0903": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0911": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0919": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0927": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0935": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0943": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0951": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0959": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0967": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0975": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/0983": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0991": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/0999": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/1007": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1015": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/EDU/2024/1023": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1031": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1039": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1047": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1055": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/1063": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1071": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1079": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1087": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1095": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/1103": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1111": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1119": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1127": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1135": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/1143": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1151": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1159": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1167": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1175": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/EDU/2024/1183": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1191": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/EDU/2024/1199": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0005": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0013": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0021": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0029": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0037": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0045": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0053": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0061": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0069": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0077": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0085": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0093": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0101": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0109": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0117": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0125": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0133": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0141": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0149": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0157": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0165": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0173": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0181": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0189": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0197": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0205": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0213": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0221": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0229": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0237": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0245": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0253": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0261": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0269": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0277": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0285": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0293": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0301": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0309": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0317": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0325": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0333": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0341": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0349": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0357": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0365": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0373": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0381": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0389": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0397": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0405": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0413": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0421": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0429": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0437": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0445": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0453": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0461": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0469": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0477": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0485": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0493": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0501": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0509": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0517": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0525": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0533": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0541": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0549": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0557": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0565": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0573": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0581": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0589": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0597": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0605": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0613": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0621": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0629": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0637": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0645": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0653": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0661": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0669": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0677": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0685": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0693": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0701": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0709": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0717": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0725": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0733": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0741": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0749": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0757": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0765": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0773": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0781": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0789": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0797": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0805": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0813": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0821": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0829": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0837": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0845": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0853": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0861": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0869": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0877": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0885": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0893": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0901": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0909": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0917": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0925": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/0933": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0941": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0949": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0957": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0965": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/0973": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0981": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0989": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/0997": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1005": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/1013": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1021": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1029": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1037": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1045": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/1053": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1061": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1069": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1077": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1085": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/ENG/2022/1093": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1101": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1109": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1117": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1125": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/1133": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1141": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1149": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1157": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1165": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/ENG/2022/1173": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1181": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1189": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/ENG/2022/1197": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0003": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0011": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0019": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0027": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0035": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0043": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0051": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0059": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0067": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0075": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0083": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0091": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0099": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0107": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0115": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0123": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0131": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0139": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0147": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0155": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0163": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0171": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0179": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0187": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0195": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0203": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0211": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0219": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0227": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0235": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0243": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0251": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0259": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0267": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0275": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0283": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0291": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0299": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0307": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0315": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0323": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0331": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0339": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0347": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0355": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0363": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0371": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0379": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0387": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0395": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0403": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0411": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0419": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0427": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0435": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0443": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0451": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0459": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0467": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0475": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0483": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0491": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0499": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0507": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0515": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0523": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0531": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0539": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0547": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0555": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0563": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0571": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0579": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0587": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0595": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0603": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0611": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0619": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0627": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0635": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0643": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0651": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0659": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0667": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0675": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0683": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0691": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0699": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0707": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0715": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0723": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0731": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0739": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0747": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0755": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0763": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0771": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0779": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0787": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0795": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0803": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0811": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0819": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0827": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0835": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0843": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0851": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0859": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0867": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0875": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/0883": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0891": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0899": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0907": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0915": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0923": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0931": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0939": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0947": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0955": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/0963": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0971": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0979": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0987": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/0995": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/1003": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1011": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1019": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1027": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1035": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/1043": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1051": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1059": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1067": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1075": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/1083": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1091": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1099": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1107": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1115": {
+    "balance": 125000.0,
+    "status": "Partial"
+  },
+  "fees:RU/MTH/2024/1123": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1131": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1139": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1147": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/1155": {
+    "balance": 250000.0,
+    "status": "Unpaid"
+  },
+  "fees:RU/MTH/2024/1163": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1171": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1179": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1187": {
+    "balance": 0.0,
+    "status": "Paid"
+  },
+  "fees:RU/MTH/2024/1195": {
+    "balance": 125000.0,
+    "status": "Partial"
   }
 }

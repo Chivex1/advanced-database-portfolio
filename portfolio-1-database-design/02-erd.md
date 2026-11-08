@@ -1,6 +1,6 @@
 # Conceptual design — Entity-Relationship model
 
-This ERD is the **conceptual** model from the module design stages: it is independent of SQLite storage details. The logical schema in `03-relational-schema.md` is the mapped relational form.
+This ERD is the **conceptual** model from the module design stages: it is independent of physical storage details. The logical schema in `03-relational-schema.md` is the mapped relational form (implemented on MySQL/MariaDB InnoDB).
 
 Chen-style notation used in the module:
 

@@ -32,11 +32,11 @@ Allocation: a student’s home campus stores their fragment (locality). Cross-ca
 
 | Copy | Role | Consistency |
 | --- | --- | --- |
-| Primary SQLite / future RDS | All grade and fee writes | Strong / ACID |
-| Campus replica | Advisor and portal reads | Stale until apply (eventual / DBASE) |
+| Primary schema `usirms` / future managed RDS | All grade and fee writes | Strong / ACID |
+| Schema `usirms_replica` | Advisor and portal reads | Stale until apply (eventual / DBASE) |
 | Document export (Portfolio 4) | Portal cache | Eventual by design |
 
-The live script copies `usirms.db` to `replica_usirms.db`, commits a transcript request on the primary, shows the replica **missing** the row, then applies it. That is the window in which the module’s **soft state** and **eventual consistency** appear.
+The live script inserts a transcript request on `usirms`, shows `usirms_replica` **missing** the row, then applies it into the replica schema. That gap is the module’s **soft state** and **eventual consistency** window.
 
 During a network partition the university’s policy is:
 
@@ -58,7 +58,7 @@ That is the CAP theorem applied, not a claim that one system guarantees C, A, an
 
 | Artefact | Status |
 | --- | --- |
-| `config/docker-compose.yml` | Written. Primary + replica service definitions, WAL-level settings |
+| `config/docker-compose.yml` | Written. Primary + replica service definitions (PostgreSQL `wal_level=replica` sketch) |
 | Live `docker compose up` | **Not claimed.** Docker was not used as a running control plane in this environment |
 | Live fragmentation + replica apply | **Claimed.** `evidence/distributed_run.txt` |
 

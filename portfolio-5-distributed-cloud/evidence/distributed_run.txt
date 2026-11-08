@@ -1,5 +1,5 @@
 USIRMS distributed database exercise
-generated: 2026-11-07 16:18:07
+generated: 2026-11-07 16:30:22
 DBMS: MySQL/MariaDB schemas usirms / usirms_frag_main / usirms_frag_north / usirms_replica
 
 Horizontal fragmentation (derived attribute: campus_code)
@@ -16,7 +16,7 @@ RU/ENG/2022/0005 -> NORTH fragment
 
 Replication
 replica before apply: level=1 status=Active
-primary committed issue_id=5 status=Requested
+primary committed issue_id=3 status=Requested
 replica before catch-up: matching rows=0 (expected 0)
 replica after apply: matching rows=1 (expected 1)
 Replication style: primary schema + logical replica catch-up (strong consistency after apply).

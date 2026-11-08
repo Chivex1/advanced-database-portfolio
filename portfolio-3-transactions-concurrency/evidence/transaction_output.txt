@@ -1,0 +1,42 @@
+USIRMS transaction / concurrency evidence
+database: MySQL/MariaDB schema usirms
+generated: 2026-11-07 16:30:16
+
+=== DEMO 1 - Atomic grade finalisation (COMMIT) ===
+Business: lecturer publishes remaining CSC102 scores and finalises Ada's module.
+before: enrolment_id=2 status=Registered final=None letter=None gp=None grade_rows=1
+COMMIT published CA=24.0, Exam=50.0, final=74.0 A (5)
+after: enrolment_id=2 status=Completed final=74.00 letter=A gp=5 grade_rows=2
+ACID: Atomicity (scores + final together), Consistency (5-point rule), Durability (visible after COMMIT).
+
+=== DEMO 2 - ROLLBACK on illegal fee payment ===
+Business: bursary posts 50000 then a second payment of -10. The whole unit must undo.
+before invoice 1: status=Paid due=250000.00 paid=250000.00
+engine rejected second insert: (4025, 'CONSTRAINT `chk_amount_paid` failed for `usirms`.`fee_payment`')
+ROLLBACK issued - the +50000 payment must not remain.
+after rollback: status=Paid paid=250000.00 demo_payment_rows=0
+Atomicity shown: first insert of the unit did not survive the failed statement.
+
+=== DEMO 3 - Isolation: no dirty read of an uncommitted grade ===
+Lecturer A starts a draft change to Ada's CSC101 CA. Lecturer B reads the same score.
+committed score before demo: 26.00 (grade_id=1)
+connection A (uncommitted): score=3.00 status=Draft
+connection B (concurrent read): score=26.00 status=Published
+PASS: B did not see A's uncommitted write (no dirty read).
+after A ROLLBACK, B reads score=26.00 status=Published
+InnoDB default isolation is REPEATABLE READ: readers see the last committed snapshot, not the writer's uncommitted row.
+
+=== DEMO 4 - Lost update (read-modify-write) and the control that prevents it ===
+start score=20.00 (reset to 20)
+naive RMW: A read 20.00, B read 20.00, both wrote +1, stored score=21.00
+Issue: two increments were intended (22) but one increment was lost.
+reset to 20; retry with row lock and atomic increment
+B blocked/failed while A held the write lock: (1205, 'Lock wait timeout exceeded; try restarting transaction')
+after locked atomic increments: score=22.00 (expected 22)
+Control: START TRANSACTION + SELECT ... FOR UPDATE + UPDATE score = score + 1.
+
+=== DEMO 5 - SAVEPOINT inside a registrar correction ===
+issued-transcript insert failed ((4025, 'CONSTRAINT `chk_issued_complete` failed for `usirms`.`transcript_issue`')); rolled back to SAVEPOINT
+COMMIT kept requested transcript rows=1; rejected issued rows=0
+Partial rollback: the surrounding student update survived; only the illegal issue was undone.
+
