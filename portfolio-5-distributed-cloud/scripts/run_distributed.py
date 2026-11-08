@@ -117,6 +117,12 @@ def clone_schema_to_replica() -> None:
 
 
 def replicate() -> list[str]:
+    cleanup = connect("usirms")
+    try:
+        cleanup.execute("DELETE FROM transcript_issue WHERE purpose = 'Distributed replica test'")
+        cleanup.commit()
+    finally:
+        cleanup.close()
     clone_schema_to_replica()
     primary = connect("usirms")
     secondary = connect("usirms_replica")
@@ -150,15 +156,21 @@ def replicate() -> list[str]:
             "SELECT COUNT(*) AS n FROM transcript_issue WHERE purpose = 'Distributed replica test'"
         ).fetchone()["n"]
         notes.append(f"replica before catch-up: matching rows={stale} (expected 0)")
+        full = primary.execute(
+            """
+            SELECT issue_id, student_id, requested_on, issued_on, issued_by, purpose, status
+            FROM transcript_issue WHERE issue_id = %s
+            """,
+            (row["issue_id"],),
+        ).fetchone()
+        secondary.commit()
         secondary.execute(
             """
             INSERT INTO transcript_issue
                 (issue_id, student_id, requested_on, issued_on, issued_by, purpose, status)
-            SELECT p.issue_id, p.student_id, p.requested_on, p.issued_on, p.issued_by, p.purpose, p.status
-            FROM usirms.transcript_issue p
-            WHERE p.purpose = 'Distributed replica test'
-              AND p.issue_id NOT IN (SELECT issue_id FROM transcript_issue)
-            """
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
+            """,
+            tuple(full.values()),
         )
         secondary.commit()
         caught = secondary.execute(
